@@ -1,0 +1,89 @@
+Name,Services,House,Zip code,Island,PHONE,Location 1,Map icon
+CASTLE MEDICAL CENTER,Licensed Beds & Psychiatric Beds,640,96734,Oahu,263-5500,"Ulukahiki St
+Kailua, HI 96734
+(21.38099706917427, -157.75637437928884)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KAISER FOUNDATION HOSPITAL,Licensed Beds,3288,96819,Oahu,432-0000,"Moanalua Rd
+Honolulu, HI 96819
+(21.363361364179696, -157.90119670227716)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KUAKINI MEDICAL CENTER,Licensed Beds,347,96817,Oahu,536-2236,"No Kuakini St
+Honolulu, HI 96817
+(21.322199394898632, -157.85618113810057)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+HAWAII MEDICAL CENTER WEST,Licensed Beds,91-2141 ,96706,Oahu,547-6011,"Fort Weaver Rd
+Ewa Beach, HI 96706
+(21.375005900481945, -158.0263684600304)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+HILO MEDICAL CENTER,Licensed Beds & Psychiatric Beds,1190,96720,Hawaii,974-4700,"Waianuenue Ave
+Hilo, HI 96720
+(19.713564094649143, -155.12702656222444)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+MOLOKAI GENERAL HOSPITAL,Licensed Beds,280,96748,Molokai,553-5331,"Home Olu Pl
+Kaunakakai, HI 96748
+(21.09186829806333, -157.01894023662982)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+STRAUB CLINIC AND  HOSPITAL,Licensed Beds,888,96813,Oahu,522-4000,"So King St
+Honolulu, HI 96813
+(21.31055008497322, -157.86281449117345)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+HAWAII STATE HOSPITAL,Psychiatric Beds,45-710,96744,Oahu,247-2191,"Keaahala Rd
+Kaneohe, HI 96744
+(21.413948228327826, -157.8023926875281)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+"KAPIOLANI MEDICAL CENTER
+for WOMEN and CHILDREN ",Licensed Beds,1319,96826,Oahu,983-6000,"Punahou St
+Honolulu, HI 96826
+(21.300880917875517, -157.83397887768308)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+SHRINERS HOSPITAL FOR  CHILDREN,Licensed Beds,1310,96826,Oahu,941-4466,"Punahou St
+Honolulu, HI 96826
+(21.300880917875517, -157.83397887768308)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+WAHIAWA GENERAL HOSPITAL,Licensed Beds & Psychiatric Beds,128,96786,Oahu,621-8411,"Lehua St
+Wahiawa, HI 96786
+(21.47427475005327, -158.02564038808154)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KONA COMMUNITY HOSPITAL,Licensed Beds,79-1019 ,96750,Hawaii,322-9311,"Haukapila St
+Kealakekua, HI 96750
+(19.519681497924154, -155.91676830300116)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+LEAHI HOSPITAL,Licensed Beds,3675,96816,Oahu,733-8000,"Kilauea Avenue
+Honolulu, HI 96816
+(21.26842443415663, -157.7915108909736)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+HALE HO'OLA HAMAKUA,Licensed Beds,45-547 ,96727,Hawaii,775-7211,"Plumeria St
+Honokaa, HI 96727
+(20.07711955624016, -155.47029546366062)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+QUEEN’S MEDICAL CENTER,Licensed Beds & Psychiatric Beds,1301,96813,Oahu,538-9011,"Punchbowl Street
+Honolulu, HI 96813
+(21.30202760178142, -157.86307444145513)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+WILCOX MEMORIAL HOSPITAL,Licensed Beds,3420,96766,Kauai,245-1100,"Kuhio Hwy
+Lihue, HI 96766
+(22.004910979102018, -159.34639968980227)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+MAUI MEMORIAL MEDICAL CENTER,Licensed Beds & Psychiatric Beds,221,96793,Maui,442-5101,"Mahalani St
+Wailuku, HI 96793
+(20.882948032737772, -156.49190512304233)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+LANAI COMMUNITY HOSPITAL,Licensed Beds,628,96763,Lanai,565-6411,"7th St
+Lanai City, HI 96763
+(20.826708929635487, -156.9180668530667)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KAU HOSPITAL,Licensed Beds,1,96777,Hawaii,928-2050,"Kamani St
+Pahala, HI 96777
+(19.202537841329843, -155.47764074517747)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KAHI MOHALA,Psychiatric Beds,91-2301 ,96706,Oahu,671-8511,"Fort Weaver Rd
+Ewa Beach, HI 96706
+(21.375005900481945, -158.0263684600304)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+REHABILITATION HOSPITAL OF THE PACIFIC,Licensed Beds,226,96817,Oahu,531-3511,"No Kuakini St
+Honolulu, HI 96817
+(21.322199394898632, -157.85618113810057)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+PALI MOMI MEDICAL CENTER,Licensed Beds,98-1079 ,96701,Oahu,486-6000,"Moanalua Rd
+Aiea, HI 96701
+(21.384009797972425, -157.93770917666674)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KULA HOSPITAL,Licensed Beds,100,96790,Maui,878-1221,"Keokea Place
+Kula, HI 96790
+(20.701449339299614, -156.3559678604675)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KAUAI VETERANS MEMORIAL HOSPITAL,Licensed Beds,4643,96796,Kauai,338-9431,"Waimea Canyon Rd
+Waimea, HI 96796
+(21.954859999589473, -159.66636000001384)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+HAWAII MEDICAL CENTER EAST,Licensed Beds,2230,96817,Oahu,547-6011,"Liliha St
+Honolulu, HI 96817
+(21.329776182995488, -157.84935078728802)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KOHALA HOSPITAL,Licensed Beds,54-383 ,96755,Hawaii,889-6211,"Hospital Rd
+Kapaau, HI 96755
+(20.23180791730317, -155.79724279746537)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+SAMUEL MAHELONA  MEMORIAL HOSPITAL,Licensed Beds & Psychiatric Beds,4800,96746,Kauai,822-4961,"Kawaihau Rd
+Kapaa, HI 96746
+(22.091830194353292, -159.31596515267046)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+KAHUKU MEDICAL CENTER,Licensed Beds,56-117 ,96731,Oahu,293-9221,"Pualalea St
+Kahuku, HI 96731
+(21.67554335941506, -157.95178684928874)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw
+NORTH HAWAII COMMUNITY HOSPITAL,Licensed Beds,67-1125,96743,Hawaii,885-4444,"Mamalahoa Hwy
+Kamuela, HI 96743
+(20.02457552369211, -155.66166375221184)",https://data.hawaii.gov/views/rwns-g4bn/files/OrTuFnwJTBz2hv0ooCNGiWjrlvLjp5ks4zudY_z3xbw

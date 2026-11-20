@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US healthcare landscape: Center for Healthcare Cyber, UCSD</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; margin: 0; color: #1e3a43; background: #fff; }
+  header { padding: 18px 24px 6px; }
+  h1 { margin: 0; font-size: 22px; }
+  .sub { margin: 4px 0 0; color: #6b6b6b; font-size: 14px; }
+  .wrap { display: flex; gap: 20px; padding: 12px 24px 24px; flex-wrap: wrap; align-items: flex-start; }
+  #map { flex: 1 1 620px; min-width: 320px; }
+  #panel { flex: 0 0 380px; border-radius: 12px; background: #eef4f3; padding: 18px; font-size: 14px; line-height: 1.45; min-height: 280px; max-height: 760px; overflow-y: auto; }
+  #panel h2 { margin: 0 0 12px; font-size: 20px; }
+  .method { border-top: 1px solid #d5e3e1; padding: 12px 0 4px; }
+  .method h3 { font-size: 14px; margin: 0 0 2px; }
+  .method .origin { font-size: 12px; color: #6b6b6b; margin-bottom: 6px; }
+  .method table { border-collapse: collapse; width: 100%; }
+  .method td { padding: 3px 0; border-bottom: 1px solid #d5e3e1; vertical-align: top; }
+  .method td:last-child { text-align: right; font-weight: 600; }
+  .method h4 { font-size: 13px; margin: 12px 0 4px; }
+  .method ul { margin: 0; padding-left: 18px; }
+  .method li { margin: 2px 0; }
+  .method .none { color: #6b6b6b; font-style: italic; }
+  .state { stroke: #fff; stroke-width: 0.7; cursor: pointer; transition: fill 0.15s; }
+  .has { fill: #3a7a7e; }
+  .has:hover { fill: #1e3a43; }
+  .has.sel { fill: #d4704f; }
+  .nodata { fill: #e4e4e0; cursor: default; }
+  #tip { position: fixed; pointer-events: none; background: #1e3a43; color: #fff; padding: 8px 10px; border-radius: 6px; font-size: 13px; display: none; max-width: 300px; line-height: 1.45; z-index: 10; }
+  #tip .m { margin-top: 4px; }
+  #tip .m span { opacity: 0.7; }
+  .legend { font-size: 13px; color: #6b6b6b; margin: 6px 0 0 24px; }
+  .legend i { display: inline-block; width: 12px; height: 12px; margin-right: 5px; vertical-align: -1px; border-radius: 2px; }
+  .foot { font-size: 12px; color: #6b6b6b; padding: 8px 24px 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>US healthcare landscape</h1>
+  <p class="sub">Center for Healthcare Cyber, UCSD (PANACEA-H). Hover a state for a summary; click it for details from each data source.</p>
+</header>
+<div class="wrap">
+  <div id="map"></div>
+  <div id="panel">
+    <h2>Select a state</h2>
+    <p>Click a teal state to see figures from each data source.</p>
+  </div>
+</div>
+<div class="legend">
+  <i style="background:#3a7a7e"></i>Data available &nbsp;&nbsp;
+  <i style="background:#e4e4e0"></i>No data yet
+</div>
+<div class="foot">Each number is labelled with the data source that produced it. Definitions differ between sources and between states, so compare with care.</div>
+<div id="tip"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script>
+/* ------------------------------------------------------------------
+   METHODOLOGY REGISTRY
+   Each methodology is one object in this array. To add another, push
+   a new object with the same shape. The tooltip and the state panel
+   render every registered methodology automatically.
+
+   {
+     id:        short unique key
+     name:      heading shown on the state panel
+     shortName: heading shown in the tooltip (optional; defaults to name)
+     origin:    line describing where the data comes from
+     data:      { "<FIPS>": { ...fields... } }   one entry per state
+     summary:   function(record) -> one-line string for the tooltip
+     rows:      function(record) -> [[label, value], ...] for the panel
+     lists:     function(record) -> [{ title, items: [...] }, ...] for the panel
+   }
+------------------------------------------------------------------- */
+const METHODOLOGIES = [
+  {
+    id: "public-health",
+    name: "Public health data methodology",
+    shortName: "Public health data",
+    origin: "PANACEA-H licensing taxonomy",
+    data: {
+      "06": {
+        facilities: 10844, hospitals: 547, origin: "State files",
+        scope: "Licensed facilities in the 1 Oct 2026 listing.",
+        facilityTypes: ["Home health agency: 4,324", "Hospice: 2,620", "Community clinic: 1,220", "Skilled nursing facility: 1,078", "Chronic dialysis clinic: 642", "General acute care hospital: 459", "Congregate living: 272", "Other (10 categories): 229"],
+        hospitalTypes: ["General acute care: 459", "Acute psychiatric: 42", "Psychiatric health facility: 38", "Chemical dependency recovery: 8"]
+      },
+      "48": {
+        facilities: 3274, hospitals: 727, origin: "State files",
+        scope: "Excludes 410 substance treatment headquarters records.",
+        facilityTypes: ["Dialysis (ESRD): 758", "Ambulatory surgical centre: 642", "Substance treatment sites: 655", "Freestanding emergency care: 212", "Narcotic treatment programmes: 93", "Birthing centre: 93", "Faith-based substance treatment: 81", "Special care (residential AIDS hospice): 10", "Medication units: 3"],
+        hospitalTypes: ["General: 408", "Special (LTAC, rehab, other): 243", "Psychiatric: 64", "Limited-services rural: 7", "Crisis stabilization units: 5"]
+      },
+      "45": {
+        facilities: 2975, hospitals: 112, origin: "State export",
+        scope: "Healthcare licences; excludes individual permits and non-clinical records.",
+        facilityTypes: ["In-home care: 1,406", "Community residential care: 428", "Nursing homes: 192", "Dialysis: 149", "General infirmary hospitals: 110", "Home health: 107", "Other (12 categories): 583"],
+        hospitalTypes: ["General infirmary: 110", "Crisis stabilization units: 2"]
+      },
+      "24": {
+        facilities: 2933, hospitals: 61, origin: "State workbooks",
+        scope: "Facility groups A to D; excludes labs, agencies and health plans.",
+        facilityTypes: ["Assisted living: 1,677", "Ambulatory surgical centres: 370", "Long-term care: 221", "Renal dialysis centres: 172", "Adult medical day care: 129", "Federally qualified health centres: 124", "Outpatient physical therapy: 64", "Hospitals: 61", "Home health agencies: 53", "Hospice: 28", "Other (5 categories): 34"],
+        hospitalTypes: ["General acute care: 43", "Psychiatric or behavioural: 10", "Rehabilitation or orthopaedic: 5", "Pediatric or specialty: 2", "Geriatric: 1"]
+      },
+      "33": {
+        facilities: 747, hospitals: 38, origin: "DHHS PDF",
+        scope: "Facility groups A to D; excludes individuals, labs and collection stations.",
+        facilityTypes: ["Home care service providers: 108", "Home health care providers: 108", "Supported residential care: 101", "Nursing homes: 77", "Community residences: 69", "Walk-in care centres: 59", "Hospitals: 38", "Assisted living: 36", "Ambulatory surgical centres: 31", "Home health and hospice agencies: 28", "Other (11 types): 92"],
+        hospitalTypes: ["General: 13", "Critical access: 13", "Special rehabilitation: 5", "Free-standing emergency room: 4", "Special health care services: 2", "Psychiatric: 1"]
+      },
+      "04": {
+        facilities: 7116, hospitals: 160, approx: true, origin: "Colleague's figures",
+        scope: "Includes pharmacies, DD group homes and DUI/DV centres.",
+        facilityTypes: ["Outpatient clinics: 4,177", "DD group homes: 1,414", "Pharmacies: 1,313", "Hospitals: ~160", "DUI/DV treatment: 50", "Unclassified: 2"],
+        hospitalTypes: ["Breakdown not provided"]
+      },
+      "08": {
+        facilities: 5021, hospitals: 137, origin: "Colleague's figures",
+        scope: "Broad categories, including federally qualified health centres.",
+        facilityTypes: ["Non-hospital facilities: 4,884 (broad categories, including FQHCs)"],
+        hospitalTypes: ["Critical access, long term, short term, psychiatric, children's, rehabilitation, licensed-only, transplant"]
+      },
+      "29": {
+        facilities: 1269, hospitals: 167, origin: "Colleague's figures",
+        scope: "Hospital count includes 6 psychiatric residential treatment facilities.",
+        facilityTypes: ["Other facilities: 1,102 (skilled nursing, residential care, assisted living, intermediate care)"],
+        hospitalTypes: ["Hospital (HOSP) and psychiatric residential treatment (PRTF)"]
+      },
+      "01": {
+        facilities: 2407, hospitals: 116, origin: "Colleague's figures",
+        scope: "Other facilities: 2,291, across the categories listed.",
+        facilityTypes: ["Abortion clinics", "Ambulatory surgical centres", "Birthing centres", "Cerebral palsy centres", "End-stage renal disease centres", "Federally qualified health centres", "Freestanding emergency departments", "Home health agencies", "Hospices", "Independent clinical and physiological labs", "Nursing homes", "Organ procurement centres", "Portable X-ray suppliers", "Psychiatric residential treatment", "Rehabilitation centres", "Rural emergency hospitals", "Rural health clinics", "Sleep disorder clinics"],
+        hospitalTypes: ["Breakdown not provided"]
+      },
+      "51": {
+        facilities: 176, hospitals: 82, approx: true, origin: "Colleague's figures (2024)",
+        scope: "Hospital count derived from facility names; federal facilities excluded.",
+        facilityTypes: ["Facility type is not in the data schema."],
+        hospitalTypes: ["Integrated health care facilities (about 75) and OSH-licensed hospitals (about 7)"]
+      }
+    },
+    summary: r => `${r.facilities.toLocaleString("en-US")} facilities · ${r.approx ? "~" : ""}${r.hospitals.toLocaleString("en-US")} hospitals (${(r.hospitals / r.facilities * 100).toFixed(1)}%)`,
+    rows: r => [
+      ["Licensed facilities", r.facilities.toLocaleString("en-US")],
+      ["Hospitals", (r.approx ? "~" : "") + r.hospitals.toLocaleString("en-US")],
+      ["Hospitals as % of facilities", (r.hospitals / r.facilities * 100).toFixed(1) + "%"],
+      ["Data origin", r.origin]
+    ],
+    lists: r => [
+      { title: "Types of healthcare facilities", items: r.facilityTypes },
+      { title: "Types of hospitals", items: r.hospitalTypes }
+    ]
+  }
+  // Future methodologies go here, for example:
+  // { id: "...", name: "...", origin: "...", data: { ... }, summary: r => "...", rows: r => [...], lists: r => [...] }
+];
+
+/* ------------------------------------------------------------------ */
+
+const NAMES = {"01":"Alabama","02":"Alaska","04":"Arizona","05":"Arkansas","06":"California","08":"Colorado","09":"Connecticut","10":"Delaware","11":"District of Columbia","12":"Florida","13":"Georgia","15":"Hawaii","16":"Idaho","17":"Illinois","18":"Indiana","19":"Iowa","20":"Kansas","21":"Kentucky","22":"Louisiana","23":"Maine","24":"Maryland","25":"Massachusetts","26":"Michigan","27":"Minnesota","28":"Mississippi","29":"Missouri","30":"Montana","31":"Nebraska","32":"Nevada","33":"New Hampshire","34":"New Jersey","35":"New Mexico","36":"New York","37":"North Carolina","38":"North Dakota","39":"Ohio","40":"Oklahoma","41":"Oregon","42":"Pennsylvania","44":"Rhode Island","45":"South Carolina","46":"South Dakota","47":"Tennessee","48":"Texas","49":"Utah","50":"Vermont","51":"Virginia","53":"Washington","54":"West Virginia","55":"Wisconsin","56":"Wyoming"};
+
+// A state has data if at least one methodology has a record for it.
+const hasData = id => METHODOLOGIES.some(m => m.data[id]);
+
+const tip = document.getElementById("tip");
+const panel = document.getElementById("panel");
+
+function tipHtml(id) {
+  const lines = METHODOLOGIES.map(m => {
+    const r = m.data[id];
+    return r ? `<div class="m"><b>${m.shortName || m.name}</b><br>${m.summary(r)}</div>` : "";
+  }).filter(Boolean);
+  const head = `<b>${NAMES[id] || "Unknown"}</b>`;
+  if (!lines.length) return `${head}<br><span>No data yet</span>`;
+  return head + lines.join("") + `<div class="m"><span>Click for details</span></div>`;
+}
+
+function showPanel(id) {
+  const sections = METHODOLOGIES.map(m => {
+    const r = m.data[id];
+    if (!r) {
+      return `<div class="method"><h3>${m.name}</h3><div class="origin">${m.origin}</div><p class="none">No data for this state yet.</p></div>`;
+    }
+    const rows = m.rows(r).map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("");
+    const lists = (m.lists ? m.lists(r) : []).map(l =>
+      `<h4>${l.title}</h4><ul>${l.items.map(t => `<li>${t}</li>`).join("")}</ul>`
+    ).join("");
+    return `<div class="method"><h3>${m.name}</h3><div class="origin">${m.origin}</div><table>${rows}</table>${lists}</div>`;
+  });
+  panel.innerHTML = `<h2>${NAMES[id] || "Unknown"}</h2>` + sections.join("");
+}
+
+d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json").then(us => {
+  const states = topojson.feature(us, us.objects.states).features;
+  const svg = d3.select("#map").append("svg")
+    .attr("viewBox", "0 0 960 600")
+    .attr("width", "100%")
+    .attr("role", "img")
+    .attr("aria-label", "Map of the United States");
+  const path = d3.geoPath();
+  let selected = null;
+
+  svg.selectAll("path")
+    .data(states)
+    .join("path")
+    .attr("d", path)
+    .attr("class", d => "state " + (hasData(d.id) ? "has" : "nodata"))
+    .on("mousemove", (event, d) => {
+      tip.style.display = "block";
+      tip.innerHTML = tipHtml(d.id);
+      tip.style.left = Math.min(event.clientX + 14, window.innerWidth - 320) + "px";
+      tip.style.top = (event.clientY + 14) + "px";
+    })
+    .on("mouseleave", () => { tip.style.display = "none"; })
+    .on("click", (event, d) => {
+      if (selected) selected.classed("sel", false);
+      if (!hasData(d.id)) {
+        selected = null;
+        panel.innerHTML = `<h2>${NAMES[d.id] || "Unknown"}</h2><p class="none">No data source has data for this state yet.</p>`;
+        return;
+      }
+      selected = d3.select(event.currentTarget).classed("sel", true);
+      showPanel(d.id);
+    });
+}).catch(err => {
+  document.getElementById("map").innerHTML = "<p>The map outline could not be loaded. Check your internet connection and reload.</p>";
+  console.error(err);
+});
+</script>
+</body>
+</html>

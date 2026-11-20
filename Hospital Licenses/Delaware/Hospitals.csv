@@ -1,0 +1,17 @@
+﻿X,Y,OBJECTID,CITY,ZIPCODE,ADDRESS,NUMUNITS,COMMONPL,TYPE,NAME,UNIQUEID,SUBTYPE,STATE,LICID
+-8392549.9628,4705479.2397,1,Milford,19963,100 Wellness Way,128,"Bayhealth Hospital, Sussex Campus",Hospital,"Bayhealth Hospital, Sussex Campus",HSP03,AC_ST,DE,HSPTL-006
+-8407259.3731,4743294.1354,2,Dover,19901,640 S State St 19901,266,"Bayhealth Hospital, Kent Campus",Hospital,Kent General,HSP02,AC_ST,DE,HSPTL-005
+-8402869.4016,4743707.5684,3,Dover,19901,725 Horsepond Rd 19901,104,Dover Behavioral Health System,Hospital,Dover Behavioral Health System,HSP08,PSYCH,DE,HSPTL-013
+-8419020.0114,4813725.8388,4,New Castle,19720,575 S DuPont Hwy 19720,120,MeadowWood Behavioral Health System,Hospital,MeadowWood Behavioral Health System,HSP09,PSYCH,DE,HSPTL-010C
+-8410150.9395,4829921.8394,5,Wilmington,19801,501 W 14th St 19801,321,Christiana Care-Wilmington Hospital,Hospital,Wilmington,HSP06,AC_ST,DE,HSPTL-001
+-8410779.8754,4833934.1175,6,Wilmington,19803,1600 Rockland Rd 19803,260,Alfred I. duPont Hospital for Children,Hospital,Alfred I. duPont,HSP01,AC_ST,DE,HSPTL-003
+-8423448.0666,4820631.9865,7,Newark,19713,4755 Ogletown Stanton Rd 19713,906,Christiana Care-Christiana Hospital,Hospital,Christiana,HSP05,AC_ST,DE,HSPTL-002
+-8412051.063,4829683.4964,8,Wilmington,19805,701 N Clayton St 19805,395,St. Francis Hospital,Hospital,St. Francis,HSP13,AC_ST,DE,HSPTL-004
+-8364910.2938,4689030.7495,9,Lewes,19958,424 Savannah Rd 19958,210,Beebe Medical Center,Hospital,Beebe,HSP04,AC_ST,DE,HSPTL-007
+-8416252.9202,4670475.6642,10,Seaford,19973,801 Middleford Rd 19973,139,Nanticoke Memorial Hospital,Hospital,Nanticoke Memorial,HSP10,AC_ST,DE,HSPTL-008
+-8416455.8522,4828242.364,11,Wilmington,19805,1601 Kirkwood Hwy 19805,60,Wilmington Veterans Affairs Medical Center,Hospital,Wilmington VA,HSP14,FED_VA,DE,
+-8413195.1035,4822635.6453,12,New Castle,19720,1901 N DuPont Hwy 19720,200,Delaware Psychiatric Center,Hospital,DPC,HSP07,PSYCH,DE,HSPTL-009
+-8422548.7062,4821758.1008,13,Newark,19713,100 Rockford Dr 19713,138,Rockford Center,Hospital,Rockford,HSP11,PSYCH,DE,HSPTL-011
+-8412051.063,4829683.4964,14,Wilmington,19805,701 N Clayton St 19805,35,Select Specialty Hospital of Wilmington,Hospital,SSHW,HSP12,LT_SPEC,DE,HSPTL-012
+-8418211.9106,4763715.5238,321,Smyrna,19977,401 North Carter Rd,,Bayhealth Smyrna Emergency Room,Emergency Room Only,Bayhealth Smyrna Emergency Room,,,DE,
+-8425041.5855,4787067.48,322,Middletown,19709,621 Middletown Odessa Rd,,Christiana Care Middletown Emergency Room,Emergency Room Only,Christiana Care Middletown Emergency Room,,,DE,

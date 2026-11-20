@@ -1,0 +1,34 @@
+﻿X,Y,OBJECTID,NAME,LICENSE_ID,LICENSURE_EXPIRATION_DATE,ADDRESS,STREET,CITY,STATE,ZIP_CODE
+-8409774.267,4745618.8116,1,American Kidney Care Dover,ESRD35,2019/07/15 00:00:00+00,"107 Mont Blanc Blvd., Suite 100 Dover, DE 19904",107 Mont Blanc Blvd,Dover,DE,19904
+-8411836.6219,4817399.2442,2,BMA First State,1504,2019/07/15 00:00:00+00,"608 Ferry Cut-Off Road New Castle, DE 19720",608 Ferry Cut-Off Road,New Castle,DE,19720
+-8362532.2145,4682222.843,3,FMC Rehoboth,8413,2019/07/15 00:00:00+00,"19339 Coastal Hwy. Suite 100 Rehoboth Beach, DE 19971",19339 Coastal Hwy. ,Rehoboth Beach,DE,19971
+-8410754.1947,4829958.3118,4,US Renal Care Wilmington Dialysis ,ESRD21,2019/07/15 00:00:00+00,"913, Delaware Avenue Wilmington, DE 19806",913 Delaware Avenue,Wilmington,DE,19806
+-8411023.0569,4833761.7068,5,Alfred I duPont Hospital for Children ESRD Unit,,2019/08/15 00:00:00+00,"1600 Rockland Road Wilmington, DE 19803",1600 Rockland Road,Wilmington,DE,19803
+-8424653.4788,4811584.125,6,American Kidney Care Bear,ESRD26,2019/08/15 00:00:00+00,"1415 Pulaski Hwy., Suite B Bear, DE 19702",1415 Pulaski Hwy,Bear,DE,19702
+-8414856.5964,4761812.4106,7,FMC Smyrna,8414,2019/08/15 00:00:00+00,"210 Stadium Street Smyrna, DE 19977",210 Stadium Street ,Smyrna,DE,19977
+-8412016.1764,4660752.7287,8,US Renal Care Laurel Dialysis,ESRD28,2019/08/15 00:00:00+00,"30214 Sussex Hwy., Unit 4 Laurel, DE 19958",30214 Sussex Hwy,Laurel,DE,19958
+-8427347.0313,4830846.6425,9,American Kidney Care Hockessin,ESRD27,2019/09/16 00:00:00+00,"5936 Limestone Road, Suite 101 Hockessin, DE 19707",5936 Limestone Road,Hockessin,DE,19707
+-8407240.2113,4743272.0506,10,Bayhealth Medical Center Kent General Hospital ESRD Unit,,2019/09/16 00:00:00+00,"640 South State Street Dover, DE 19901",640 South State Street ,Dover,DE,19901
+-8407360.4162,4831584.3836,11,FMC North Wilmington,ESRD20,2019/09/16 00:00:00+00,"4000 Washington Street Wilmington, DE 19802",4000 Washington Street ,Wilmington,DE,19802
+-8423320.3241,4820696.3547,12,Christiana Care Hospital ESRD & Transplant Unit,,2019/10/15 00:00:00+00,"4755 Ogletown-Stanton Road Newark, DE 19718",4755 Ogletown-Stanton Road ,Newark,DE,19718
+-8410163.5623,4829902.3216,13,Wilmington Hospital ESRD Unit,,2019/10/15 00:00:00+00,"501 West 14th Street Wilmington, DE 19801",501 West 14th Street ,Wilmington,DE,19801
+-8407792.7987,4741516.9899,14,FMC Dover Home Dialysis Center,ESRD30,2019/10/15 00:00:00+00,"1198 South Governors Avenue Bldg B, Suite 100 Dover, DE 19904",1198 South Governors Avenue ,Dover,DE,19904
+-8416071.9798,4673103.5141,15,US Renal Care Seaford Dialysis,ESRD22,2019/10/15 00:00:00+00,"600 Health Services Drive Seaford, DE 19973",600 Health Services Drive ,Seaford,DE,19973
+-8397871.4926,4709845.2083,16,FMC Milford,8411,2019/09/16 00:00:00+00,"656D North DuPont Hwy. Milford, DE 19963",656D North DuPont Hwy,Milford,DE,19963
+-8415078.3254,4683876.4668,17,FKC Bridgeville,ESRD31,2019/11/15 00:00:00+00,"9115 Antique Alley Bridgeville, DE 19933",9115 Antique Alley ,Bridgeville,DE,19933
+-8427894.1459,4833245.296,18,FKC Lantana,ESRD29,2019/11/15 00:00:00+00,"214 Lantana Drive Hockessin, DE 19707",214 Lantana Drive ,Hockessin,DE,19707
+-8409825.6909,4743818.4957,19,FMC Green Tree,ESRD19,2019/11/15 00:00:00+00,"97 Commerce Way, Suite 104 Dover, DE 19904",97 Commerce Way,Dover,DE,19904
+-8423440.108,4817519.3063,20,FMC of Christiana,1493,2019/11/15 00:00:00+00,"63 University Plaza Newark, DE 19702",63 University Plaza ,Newark,DE,19702
+-8404774.0934,4743434.6649,21,FMC Central Delaware,8410,2019/12/14 00:00:00+00,"655 South Bay Road Dover, DE 19901",655 South Bay Road,Dover,DE,19901
+-8380891.993,4660688.2311,22,FMC Millsboro,ESRD23,2019/12/14 00:00:00+00,"30164 Commerce Drive Millsboro, DE 19966",30164 Commerce Drive,Millsboro,DE,19966
+-8417476.1264,4824550.713,23,FMC Newport Pike,7008,2019/12/14 00:00:00+00,"605 West Newport Pike Wilmington, DE 19804",605 West Newport Pike ,Wilmington,DE,19804
+-8430736.6535,4786894.8874,24,FMC of Middletown,ESRD18,2019/12/14 00:00:00+00,"104 Sleepy Hollow Drive Middletown, DE 19709",104 Sleepy Hollow Drive ,Middletown,DE,19709
+-8412479.6527,4751673.6578,25,FKC N. Dover,ESRD32,2020/01/15 00:00:00+00,"80 Salt Creek Drive Dover, DE 19904",80 Salt Creek Drive ,Dover,DE,19904
+-8422738.0357,4821967.734,26,FMC Brandywine Home Therapies,ESRD24,2020/01/15 00:00:00+00,"4923 Ogletown-Stanton Road, Suite 210 Newark, DE 19713",4923 Ogletown-Stanton Road,Newark,DE,19713
+-8393179.9627,4675991.9023,27,FMC Mid-Sussex,8409,2020/01/15 00:00:00+00,"34 Georgetown Plaza Georgetown, DE 19947",34 Georgetown Plaza,Georgetown,DE,19947
+-8431767.8934,4820161.546,28,FKC Main Street,ESRD34,2020/02/14 00:00:00+00,"230 East Main Street, Suite 325 Newark, DE 19711",230 East Main Street,Newark,DE,19711
+-8407363.7075,4837208.0876,29,FKC Talleyville,ESRD33,2020/02/14 00:00:00+00,"1417 Foulk Road Wilmington, DE 19803",1417 Foulk Road ,Wilmington,DE,19803
+-8410266.4338,4827325.6072,30,FMC of Brandywine,1186,2020/02/14 00:00:00+00,"303 A Street Wilmington, DE 19801",303 A Street ,Wilmington,DE,19801
+-8428479.4902,4808688.3239,31,FMC Fox Run,ESRD25,2020/03/16 00:00:00+00,"2520 Wrangle Hill Road Bear, DE 19701",2520 Wrangle Hill Road ,Bear,DE,19701
+-8407996.6453,4832264.5816,32,FMC Riverside Park,7007,2020/03/16 00:00:00+00,"700 West Lea Blvd., Unit G-2 Wilmington, DE 19802",700 West Lea Blvd,Wilmington,DE,19802
+-8412099.5215,4829633.5543,33,FMC Wilmington,2672,2020/03/16 00:00:00+00,"701 North Clayton Street, Suite 404 Wilmington, DE 19805",701 North Clayton Street,Wilmington,DE,19805

@@ -1,0 +1,2408 @@
+Name,Type
+Andalusia Health,Hospital
+Athens Limestone Hospital,Hospital
+Atmore Community Hospital,Hospital
+Atrium Health Floyd Cherokee Medical Center,Hospital
+Baldwin Health,Hospital
+Baptist Health Brookwood Hospital,Hospital
+Baptist Health Calhoun Hospital,Hospital
+Baptist Health Citizens Hospital,Hospital
+Baptist Health Princeton Hospital,Hospital
+Baptist Health Shelby Hospital,Hospital
+Baptist Health Walker Hospital,Hospital
+Baptist Medical Center East,Hospital
+Baptist Medical Center South,Hospital
+BayPointe Behavioral Health,Hospital
+Beacon Children's Hospital,Hospital
+Bibb Medical Center,Hospital
+Birmingham VA Medical Center,Hospital
+Bryce Hospital,Hospital
+Central Alabama Veterans Health Care System East Campus,Hospital
+Central Alabama Veterans Health Care System West Campus,Hospital
+Children's Hospital of Alabama,Hospital
+Community Hospital Inc.,Hospital
+Coosa Valley Medical Center,Hospital
+Crenshaw Community Hospital,Hospital
+Crestwood Medical Center,Hospital
+Crossbridge Behavioral Health A Baptist South Facility,Hospital
+Cullman Regional Medical Center,Hospital
+D. W. McMillan Memorial Hospital,Hospital
+Dale Medical Center,Hospital
+DCH Regional Medical Center,Hospital
+Decatur Morgan Hospital - Decatur Campus,Hospital
+Decatur Morgan Hospital - Parkway Campus,Hospital
+Decatur Morgan West,Hospital
+Dekalb Regional Medical Center,Hospital
+East Alabama Medical Center,Hospital
+East Alabama Medical Center North,Hospital
+EastPointe Hospital,Hospital
+Elmore Community Hospital,Hospital
+Encompass Health Lakeshore Rehabilitation Hospital,Hospital
+Encompass Health Rehabilitation Hospital of Dothan,Hospital
+Encompass Health Rehabilitation Hospital of Gadsden,Hospital
+Encompass Health Rehabilitation Hospital of Montgomery,Hospital
+Encompass Health Rehabilitation Hospital of North Alabama,Hospital
+Encompass Health Rehabilitation Hospital of Shelby County,Hospital
+Evergreen Medical Center,Hospital
+Fayette Medical Center,Hospital
+Flowers Hospital,Hospital
+Gadsden Regional Medical Center,Hospital
+Grandview Medical Center,Hospital
+Greene County Health System,Hospital
+Hale County Hospital,Hospital
+Helen Keller Memorial Hospital,Hospital
+Highlands Medical Center,Hospital
+Hill Crest Behavioral Health Services,Hospital
+Hill Hospital of Sumter County,Hospital
+Huntsville Hospital,Hospital
+Infirmary LTAC Hospital,Hospital
+Jack Hughston Memorial Hospital,Hospital
+Jackson Hospital & Clinic Inc,Hospital
+Jackson Medical Center,Hospital
+Lake Martin Community Hospital,Hospital
+Lakeland Community Hospital Inc.,Hospital
+Laurel Oaks Behavioral Health Center,Hospital
+Madison Hospital,Hospital
+Marshall Medical Centers North Campus,Hospital
+Marshall Medical Centers South Campus,Hospital
+Mary S. Harper Geriatric Psychiatry Center,Hospital
+Medical Center Barbour,Hospital
+Medical Center Enterprise,Hospital
+Mizell Memorial Hospital,Hospital
+Mobile Infirmary Medical Center,Hospital
+Monroe County Hospital,Hospital
+Mountain View Hospital,Hospital
+Noland Hospital Anniston II LLC,Hospital
+Noland Hospital Birmingham - Downtown,Hospital
+Noland Hospital Dothan II LLC,Hospital
+Noland Hospital Tuscaloosa II LLC,Hospital
+North Alabama Medical Center,Hospital
+North Alabama Shoals Hospital,Hospital
+North Alabama Specialty Hospital,Hospital
+North Baldwin Infirmary,Hospital
+North Mississippi Health Services - South Marion,Hospital
+North Mississippi Medical Center - Hamilton,Hospital
+Northport Medical Center,Hospital
+Ochsner Choctaw General,Hospital
+Prattville Baptist Hospital,Hospital
+Red Bay Hospital,Hospital
+Regional Medical Center of Central Alabama,Hospital
+Rehabilitation Hospital of Phenix City,Hospital
+Riverview Regional Medical Center,Hospital
+Russell Medical Center,Hospital
+Russellville Hospital,Hospital
+The Sanctuary At The Woodlands,Hospital
+Select Specialty Hospital-Birmingham,Hospital
+Southeast Health Medical Center,Hospital
+Springhill Memorial Hospital,Hospital
+Tanner Medical Center -East Alabama,Hospital
+Thomas Hospital,Hospital
+Troy Regional Medical Center,Hospital
+Tuscaloosa VA Medical Center,Hospital
+UAB Medical West,Hospital
+UAB St. Vincent's Birmingham,Hospital
+UAB St. Vincent's Blount,Hospital
+UAB St. Vincent's Chilton,Hospital
+UAB St. Vincent's East,Hospital
+UAB St. Vincent's St.Clair,Hospital
+Unity Psychiatric Care - Creekside,Hospital
+Unity Psychiatric Care - Huntsville,Hospital
+University of Alabama Hospital,Hospital
+USA Health Children's & Women's Hospital,Hospital
+USA Health Providence Hospital,Hospital
+USA Health University Hospital,Hospital
+Vaughan Regional Medical Center-Parkway Campus,Hospital
+Washington County Hospital,Hospital
+Whitfield Regional Hospital,Hospital
+Wiregrass Medical Center,Hospital
+Alabama Women's Center for Reproductive Alternatives,Reproductive Center
+Planned Parenthood Southeast - Birmingham Clinic,Reproductive Center
+West Alabama Women's Center Inc.,Reproductive Center
+Alabama Digestive Health Endoscopy Center,Ambulatory Surgical Center
+Alabama Endoscopy Center,Ambulatory Surgical Center
+Alabama Eye Surgery Center,Ambulatory Surgical Center
+Azura Surgery Center of Montgomery,Ambulatory Surgical Center
+Birmingham Heart & Vascular Surgery Center,Ambulatory Surgical Center
+Birmingham Musculoskeletal Institute,Ambulatory Surgical Center
+Birmingham Surgery Center,Ambulatory Surgical Center
+Center for Digestive Health,Ambulatory Surgical Center
+Center for Eye Surgery,Ambulatory Surgical Center
+The Children's Hospital of Alabama South Outpatient Center,Ambulatory Surgical Center
+Dale Medical Center Ambulatory Surgery Center,Ambulatory Surgical Center
+Daphne Surgery Center,Ambulatory Surgical Center
+Dauphin West Surgery Center,Ambulatory Surgical Center
+Decatur Ambulatory Surgery Center,Ambulatory Surgical Center
+Dothan Surgery Center,Ambulatory Surgical Center
+EAMC - Lanier Ambulatory Surgery Center,Ambulatory Surgical Center
+East Alabama Ambulatory Surgery Center,Ambulatory Surgical Center
+Eye Surgery Center of Homewood,Ambulatory Surgical Center
+Eye Surgery Center of North Alabama Inc.,Ambulatory Surgical Center
+Fairhope Surgery Center,Ambulatory Surgical Center
+Florence Eye Surgery Center,Ambulatory Surgical Center
+Gadsden Surgery Center,Ambulatory Surgical Center
+Grandview Endoscopy Center,Ambulatory Surgical Center
+Grandview Urology Surgery Center,Ambulatory Surgical Center
+Gulf Coast Surgical Partners LLC,Ambulatory Surgical Center
+Huntsville Endoscopy Center Inc.,Ambulatory Surgical Center
+Huntsville Plastic Surgery,Ambulatory Surgical Center
+Infirmary Eastern Shore Ambulatory Surgical Center A Division of Mobile Infirmary Medical Center,Ambulatory Surgical Center
+Jackson Surgery Center,Ambulatory Surgical Center
+Laser Eye Florence,Ambulatory Surgical Center
+Laser Eye Surgery Center,Ambulatory Surgical Center
+Madison Surgery Center LLC,Ambulatory Surgical Center
+Medplex Outpatient Surgery Center,Ambulatory Surgical Center
+Mobile Surgery Center,Ambulatory Surgical Center
+Montgomery Eye Surgery Center,Ambulatory Surgical Center
+Montgomery Surgical Center LLC,Ambulatory Surgical Center
+Nephrology Vascular Lab of Central Alabama ASC LLC,Ambulatory Surgical Center
+North River Surgical Center,Ambulatory Surgical Center
+Northeast Alabama Eye Surgery Center Inc.,Ambulatory Surgical Center
+Outpatient Care Center,Ambulatory Surgical Center
+Outpatient Services East Inc.,Ambulatory Surgical Center
+Physician Endoscopy Center at 119,Ambulatory Surgical Center
+Saraland Surgery Center,Ambulatory Surgical Center
+Shelby Baptist Ambulatory Surgery Center LLC,Ambulatory Surgical Center
+Shoals Outpatient Surgery,Ambulatory Surgical Center
+Singing River Surgery Center,Ambulatory Surgical Center
+SmoothRock Surgery Center,Ambulatory Surgical Center
+South Alabama Outpatient Services,Ambulatory Surgical Center
+Southeast Alabama Surgical,Ambulatory Surgical Center
+Specialty Surgical Center,Ambulatory Surgical Center
+Sunrise Skin Cancer Surgery Center LLC,Ambulatory Surgical Center
+The Surgery Center of Cullman,Ambulatory Surgical Center
+Surgery Center of Decatur,Ambulatory Surgical Center
+The Surgery Center of Huntsville,Ambulatory Surgical Center
+Surgery Center South,Ambulatory Surgical Center
+The Surgery Center,Ambulatory Surgical Center
+Surgical Institute of Alabama,Ambulatory Surgical Center
+Surgicare of Mobile,Ambulatory Surgical Center
+TriaVision-Colonnade,Ambulatory Surgical Center
+Tuscaloosa Endoscopy Center,Ambulatory Surgical Center
+Tuscaloosa Surgical Center,Ambulatory Surgical Center
+UAB Medicine St. Vincent's One Nineteen,Ambulatory Surgical Center
+UAB St. Vincent's Outpatient Surgery Services LLC,Ambulatory Surgical Center
+United Vascular of Huntsville LLC,Ambulatory Surgical Center
+USA Health Baldwin ASC,Ambulatory Surgical Center
+Vision Correction Center,Ambulatory Surgical Center
+Walker Baptist Medical Center Outpatient Surgery Center,Ambulatory Surgical Center
+Assisted Living of Arab,Assisted Living Facility
+Auburn Assisted Living,Assisted Living Facility
+Auburn Assisted Living at Dawson Corners,Assisted Living Facility
+Autumn Cove,Assisted Living Facility
+Autumn Woods Assisted Living,Assisted Living Facility
+Azalea Court Assisted Living,Assisted Living Facility
+Azalea Manor of Haleyville,Assisted Living Facility
+Bailey Cove Assisted Living,Assisted Living Facility
+Branchwater Village,Assisted Living Facility
+The Brennity at Daphne AL,Assisted Living Facility
+The Brennity at Fairhope,Assisted Living Facility
+Bridgewood Gardens Assisted Living,Assisted Living Facility
+Brookdale Jones Farm,Assisted Living Facility
+Brookdale University Park ALF (AL),Assisted Living Facility
+Bungalows at Riverchase,Assisted Living Facility
+Carillon Oaks Heflin Assisted Living,Assisted Living Facility
+Carillon Oaks Lincoln AL,Assisted Living Facility
+Cedar Hill Assisted Living Facility,Assisted Living Facility
+Cedar View Assisted Living,Assisted Living Facility
+Chelsea's Hidden Acres,Assisted Living Facility
+Col. Robert L. Howard State Veterans Home Freedom Court,Assisted Living Facility
+Columbia Cottage - Hartselle,Assisted Living Facility
+Columbia Cottage - Florence,Assisted Living Facility
+Country Cottage - Montgomery - Ivy,Assisted Living Facility
+Country Cottage - Montgomery - Oakleaf,Assisted Living Facility
+Country Cottage-Decatur Oakleaf,Assisted Living Facility
+Country Cottage-Decatur-Magnolia,Assisted Living Facility
+Country Cottage-Russellville,Assisted Living Facility
+Country Place Senior Living of Brewton,Assisted Living Facility
+Country Place Senior Living of Fairhope,Assisted Living Facility
+Country Place Senior Living of Foley,Assisted Living Facility
+Country Place Senior Living of Greenville,Assisted Living Facility
+Country Place Senior Living of Hamilton,Assisted Living Facility
+Country Place Senior Living of Winfield,Assisted Living Facility
+Covenant Place of Gardendale,Assisted Living Facility
+Crimson Village,Assisted Living Facility
+The Crossings at Eastchase Assisted Living,Assisted Living Facility
+The Crossings at North River ALF,Assisted Living Facility
+The Crossings at Riverchase Assisted Living,Assisted Living Facility
+Crowne Place Assisted Living,Assisted Living Facility
+Danberry at Inverness,Assisted Living Facility
+Dauphin Way Assisted Living,Assisted Living Facility
+E & L Senior Living,Assisted Living Facility
+Fair Haven - Assisted Living,Assisted Living Facility
+Fleming Farms (ALF),Assisted Living Facility
+The Gables at Charlton Place Assisted Living Community,Assisted Living Facility
+Galleria Woods Assisted Living Facility,Assisted Living Facility
+Gardens of Clanton,Assisted Living Facility
+Gardens of Daphne,Assisted Living Facility
+Gardens of Eufaula,Assisted Living Facility
+Gardens of Hazel Green,Assisted Living Facility
+Gardens of Hazel Green II,Assisted Living Facility
+Gardens of Pelham,Assisted Living Facility
+Gardens of Pelham II,Assisted Living Facility
+Gardens of Wetumpka,Assisted Living Facility
+Gardens of Wetumpka II,Assisted Living Facility
+The Goldton at Athens,Assisted Living Facility
+The Goldton at Jones Farm,Assisted Living Facility
+Grand South Senior Living ALF,Assisted Living Facility
+Grandview at Redstone Village,Assisted Living Facility
+Greenbriar at the Altamont Assisted Living Facility,Assisted Living Facility
+Greensprings II,Assisted Living Facility
+Hallmark Manor,Assisted Living Facility
+Harborchase of Jasper Assisted Living Facility,Assisted Living Facility
+Hartford Retirement Village Inc.,Assisted Living Facility
+Heritage Assisted Living,Assisted Living Facility
+Heritage Residential Care Village Building #2,Assisted Living Facility
+Hilltop at Glenwood II,Assisted Living Facility
+The Inn Assisted Living at Somerby of West Mobile,Assisted Living Facility
+JK@ Arrowhead Inc.,Assisted Living Facility
+Kauhale Byrd Springs,Assisted Living Facility
+Kauhale Heritage Woods ALF,Assisted Living Facility
+Kauhale Port City,Assisted Living Facility
+Keestone of Florence,Assisted Living Facility
+Kemp Meadows Assisted Living Center,Assisted Living Facility
+Kirkwood by the River,Assisted Living Facility
+Knollwood Pointe,Assisted Living Facility
+Lakeshore Senior Living,Assisted Living Facility
+Lakewood Senior Living of Jasper I LLC,Assisted Living Facility
+Lakewood Senior Living of Jasper II LLC,Assisted Living Facility
+Lakewood Senior Living of Smith LLC,Assisted Living Facility
+Lakewood Senior Living of Valley II LLC,Assisted Living Facility
+The Legacy of Crimson Village,Assisted Living Facility
+Legacy Ridge Trussville,Assisted Living Facility
+Legacy Village of Jacksonville,Assisted Living Facility
+Legacy Woods I,Assisted Living Facility
+Limestone Lodge II,Assisted Living Facility
+Limestone Manor,Assisted Living Facility
+Liveoak Village LLC,Assisted Living Facility
+Living Legacy Assisted Living,Assisted Living Facility
+Longleaf at Liberty Park,Assisted Living Facility
+Lynridge of Huntsville Assisted Living,Assisted Living Facility
+Madison at The Range,Assisted Living Facility
+The Madison Village LLC,Assisted Living Facility
+Magnolia Gardens Assisted Living,Assisted Living Facility
+Magnolia House,Assisted Living Facility
+Maplewood Lane Assisted Living,Assisted Living Facility
+McClellan Senior Living,Assisted Living Facility
+The Meadows of Atmore,Assisted Living Facility
+The Meadows of Brewton,Assisted Living Facility
+The Meadows of Jackson,Assisted Living Facility
+The Meadows of Monroeville,Assisted Living Facility
+Merrill Gardens at Madison,Assisted Living Facility
+Monarch Grove Greystone ALF,Assisted Living Facility
+Monarch Place,Assisted Living Facility
+Morning Glory Meadows,Assisted Living Facility
+Morningview Estates,Assisted Living Facility
+Mountain Cove,Assisted Living Facility
+Murray House,Assisted Living Facility
+The Neighborhood at Cullman,Assisted Living Facility
+The Neighborhood at Grove Park,Assisted Living Facility
+The Neighborhood at Madison,Assisted Living Facility
+The Neighborhood at Priceville,Assisted Living Facility
+The Neighborhood at Sheffield,Assisted Living Facility
+The Neighborhood at Vestavia Hills,Assisted Living Facility
+North River Village,Assisted Living Facility
+Oak Circle Assisted Living LLC,Assisted Living Facility
+Oak Grove Inn,Assisted Living Facility
+Oak Landing Assisted Living,Assisted Living Facility
+OakBridge Terrace Assisted Living Residence at Magnolia Trace,Assisted Living Facility
+Oakbridge Terrace Assisted Living Residence at Westminster Village,Assisted Living Facility
+Oaks on Parkwood Assisted Living Facility,Assisted Living Facility
+Old Town Home,Assisted Living Facility
+Paden Ridge Assisted Living,Assisted Living Facility
+The Pearl of the Shoals ALF,Assisted Living Facility
+Pine Needle of Greenville,Assisted Living Facility
+Pine Place,Assisted Living Facility
+Pioneer Senior Living Upland Park,Assisted Living Facility
+Premier Care-(An Assisted Living Community),Assisted Living Facility
+Providence Home,Assisted Living Facility
+Regency Assisted Living,Assisted Living Facility
+Regency Retirement Village,Assisted Living Facility
+The Reserve at Fairhope (ALF),Assisted Living Facility
+River Oaks Assisted Living,Assisted Living Facility
+RiverBend Assisted Living LLC,Assisted Living Facility
+Riverchase Senior Living LLC,Assisted Living Facility
+Riverwalk Senior Living,Assisted Living Facility
+Rosewood Manor Assisted Living,Assisted Living Facility
+Salterra Senior Living at Peachtree,Assisted Living Facility
+Savannah Terrace of Andalusia II,Assisted Living Facility
+Seabrook Pointe,Assisted Living Facility
+Seagrass Village Daphne,Assisted Living Facility
+Seagrass Village of Gulf Shores,Assisted Living Facility
+The Seasons of Talladega #2,Assisted Living Facility
+Serenity at Grace Haven Senior Community,Assisted Living Facility
+Serenity Place I,Assisted Living Facility
+Serenity South Elba Senior Living,Assisted Living Facility
+Serenity South Enterprise Senior Living I,Assisted Living Facility
+Serenity South Enterprise Senior Living II,Assisted Living Facility
+Serenity South Troy Senior Living I,Assisted Living Facility
+Serenity South Troy Senior Living II,Assisted Living Facility
+Silver Lakes Senior Living,Assisted Living Facility
+Somerby at St. Vincent's One Nineteen,Assisted Living Facility
+Somerset Assisted Living Facility/East,Assisted Living Facility
+Southern Estates Assisted Living Community,Assisted Living Facility
+Spring Terrace Assisted Living Facility,Assisted Living Facility
+St. Martins in the Pines Assisted Living Facility,Assisted Living Facility
+Star Pointe North,Assisted Living Facility
+Sturgis Hall/John Knox Manor III,Assisted Living Facility
+Summer Village Azalea Place,Assisted Living Facility
+The Summit of Atmore,Assisted Living Facility
+Sunrise Manor II,Assisted Living Facility
+Terrace Lake Assisted Living,Assisted Living Facility
+The Brook,Assisted Living Facility
+The Haven at Regency Pointe,Assisted Living Facility
+The Huntingdon,Assisted Living Facility
+The Landings of Northport - ALF,Assisted Living Facility
+The Neighborhood at Auburn,Assisted Living Facility
+The Neighborhood at Decatur,Assisted Living Facility
+The Renaissance Assisted Living,Assisted Living Facility
+The Ridge at Meadowbrook,Assisted Living Facility
+The Veranda,Assisted Living Facility
+Twin Magnolias Assisted Living,Assisted Living Facility
+Vantage Pointe Village at The Waters,Assisted Living Facility
+The Veranda at Lake Martin,Assisted Living Facility
+Village at Cook Springs Assisted Living Facility,Assisted Living Facility
+Wellpoint Assisted Living,Assisted Living Facility
+Wesley Gardens Retirement Community,Assisted Living Facility
+Wesley Place on Honeysuckle - Assisted Living,Assisted Living Facility
+Westminster Assisted Living of Cullman,Assisted Living Facility
+Westminster Assisted Living of Decatur,Assisted Living Facility
+Whitehall Assisted Living Community,Assisted Living Facility
+Whitehall West Assisted Living,Assisted Living Facility
+Williamsburg Manor II,Assisted Living Facility
+The Willows Assisted Living,Assisted Living Facility
+Wills Creek Village,Assisted Living Facility
+The Woodmoore,Assisted Living Facility
+The Arbors Specialty Care at Somerby of West Mobile,Assisted Living Facility Specialty Care
+Auburn Assisted Living & Memory Care,Assisted Living Facility Specialty Care
+Autumn Cove Memory Care,Assisted Living Facility Specialty Care
+The Brennity at Daphne MC,Assisted Living Facility Specialty Care
+Brentwood Retirement Community I,Assisted Living Facility Specialty Care
+Brentwood Retirement Community II,Assisted Living Facility Specialty Care
+Briar Glen Alzheimer's Special Care Center,Assisted Living Facility Specialty Care
+Bridgewood Gardens Memory Care,Assisted Living Facility Specialty Care
+Brookdale Hampton Cove,Assisted Living Facility Specialty Care
+Brookdale University Park SCALF (AL),Assisted Living Facility Specialty Care
+Carillon Oaks Daphne,Assisted Living Facility Specialty Care
+Carillon Oaks Heflin Memory Care,Assisted Living Facility Specialty Care
+Carillon Oaks Lincoln MC,Assisted Living Facility Specialty Care
+Carillon Oaks Madison,Assisted Living Facility Specialty Care
+Carillon Oaks Mobile,Assisted Living Facility Specialty Care
+Chapman Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+Cherokee Village Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+Country Cottage - Montgomery - Holly,Assisted Living Facility Specialty Care
+Country Cottage Montgomery-Magnolia,Assisted Living Facility Specialty Care
+Country Place Memory Care of Greenville,Assisted Living Facility Specialty Care
+Covenant Woods of Gardendale,Assisted Living Facility Specialty Care
+The Crossings at Eastchase Memory Care,Assisted Living Facility Specialty Care
+The Crossings at North River SCALF,Assisted Living Facility Specialty Care
+The Crossings at Riverchase Memory Care,Assisted Living Facility Specialty Care
+Dugger Mountain Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+Fair Haven - Specialty Care,Assisted Living Facility Specialty Care
+Fleming Farms (SCALF),Assisted Living Facility Specialty Care
+The Goldton at Jones Farms SCALF,Assisted Living Facility Specialty Care
+Gordon Oaks Memory Care Community,Assisted Living Facility Specialty Care
+Grand South Senior Living of Dothan SCALF,Assisted Living Facility Specialty Care
+Grandview Gardens at Redstone Village,Assisted Living Facility Specialty Care
+Green Oaks Inn - Creel House,Assisted Living Facility Specialty Care
+Green Oaks Inn - Pepper House,Assisted Living Facility Specialty Care
+Greensprings I,Assisted Living Facility Specialty Care
+The Harbor at Lakeshore,Assisted Living Facility Specialty Care
+The Harbor at Legacy Village of Jacksonville,Assisted Living Facility Specialty Care
+Harborchase of Jasper Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+Hartland Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+The Haven Memory Care Facility,Assisted Living Facility Specialty Care
+Haven Memory Care on Halcyon,Assisted Living Facility Specialty Care
+Heritage Memory Care,Assisted Living Facility Specialty Care
+Hilltop at Glenwood I (SCALF),Assisted Living Facility Specialty Care
+Kauhale Heritage Woods Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+Kauhale Port City Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+Kelley Place,Assisted Living Facility Specialty Care
+Kemp Meadows Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+Kirkwood by the River Specialty Care,Assisted Living Facility Specialty Care
+Knollwood Pointe SCALF,Assisted Living Facility Specialty Care
+Lakeview Estates,Assisted Living Facility Specialty Care
+Lakewood Specialty Care of Valley,Assisted Living Facility Specialty Care
+Legacy Ridge Memory Care,Assisted Living Facility Specialty Care
+Legacy Woods II,Assisted Living Facility Specialty Care
+Legacy Woods III,Assisted Living Facility Specialty Care
+Limestone Lodge West,Assisted Living Facility Specialty Care
+Longleaf at Liberty Park (SCALF),Assisted Living Facility Specialty Care
+Lynridge of Huntsville Memory Care,Assisted Living Facility Specialty Care
+Madison at The Range Memory Care,Assisted Living Facility Specialty Care
+Madison Heights,Assisted Living Facility Specialty Care
+Memory Care at Somerby at St. Vincent's One Nineteen,Assisted Living Facility Specialty Care
+Merrill Gardens at Madison (SCALF),Assisted Living Facility Specialty Care
+Metta Reflections at Redmont Ridge,Assisted Living Facility Specialty Care
+Metta Reflections at Riverwalk,Assisted Living Facility Specialty Care
+Monark Grove Greystone,Assisted Living Facility Specialty Care
+Monark Grove Madison,Assisted Living Facility Specialty Care
+Mt. View Lake Retirement Village,Assisted Living Facility Specialty Care
+Murray House Memory Care,Assisted Living Facility Specialty Care
+The Neighborhood at Grove Park Specialty Care Living Facility,Assisted Living Facility Specialty Care
+The Neighborhood at Vestavia Hills Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+NHC Place Anniston SCALF,Assisted Living Facility Specialty Care
+North River Village Memory Care,Assisted Living Facility Specialty Care
+Oaks on Parkwood Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+The Olive Home Inc.-Oneonta #2,Assisted Living Facility Specialty Care
+Pathways Intentional Memory Care - Huntsville,Assisted Living Facility Specialty Care
+The Pearl of the Shoals SCALF,Assisted Living Facility Specialty Care
+Pioneer Senior Living Upland Park - SCALF,Assisted Living Facility Specialty Care
+Premier Assisted Living,Assisted Living Facility Specialty Care
+The Reserve at Fairhope (SCALF),Assisted Living Facility Specialty Care
+Residences at Wellpoint Memory Care,Assisted Living Facility Specialty Care
+Riverchase Senior Living SCALF LLC,Assisted Living Facility Specialty Care
+Rose Manor of Haleyville,Assisted Living Facility Specialty Care
+Rosewood Manor Specialty Care,Assisted Living Facility Specialty Care
+Seabrook Pointe Memory Care,Assisted Living Facility Specialty Care
+Serenity Place II,Assisted Living Facility Specialty Care
+Serenity South Troy Senior Living III,Assisted Living Facility Specialty Care
+Silver Lakes Senior Living SCALF,Assisted Living Facility Specialty Care
+Sonrise Specialty Care Assisted Living,Assisted Living Facility Specialty Care
+Specialty Care at Danberry at Inverness,Assisted Living Facility Specialty Care
+St. Martin's-In-The-Pines Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+Star Pointe East,Assisted Living Facility Specialty Care
+Star Pointe South,Assisted Living Facility Specialty Care
+Summer Village Camellia Place,Assisted Living Facility Specialty Care
+Summer Village Magnolia Place,Assisted Living Facility Specialty Care
+Summit Lifecare LLC,Assisted Living Facility Specialty Care
+The Harbor at Hickory Hill,Assisted Living Facility Specialty Care
+The Harbor at Opelika,Assisted Living Facility Specialty Care
+The Haven at Royal Pointe,Assisted Living Facility Specialty Care
+The Neighborhood at Priceville Specialty Care Assisted Living Facility,Assisted Living Facility Specialty Care
+The Phoenix at Opelika,Assisted Living Facility Specialty Care
+The Ridge at Meadowbrook SCALF,Assisted Living Facility Specialty Care
+The Tides at Crimson Village,Assisted Living Facility Specialty Care
+Traditions Way,Assisted Living Facility Specialty Care
+Water Oak Villa,Assisted Living Facility Specialty Care
+Water Oak Villa of Tuscaloosa,Assisted Living Facility Specialty Care
+Wesley Gardens Retirement Community-Specialty Care,Assisted Living Facility Specialty Care
+Wesley Place on Honeysuckle - Specialty Care,Assisted Living Facility Specialty Care
+Westminster Memory Care of Cullman,Assisted Living Facility Specialty Care
+Westminster Memory Care of Decatur,Assisted Living Facility Specialty Care
+Alabama Birth Center,Birthing Center
+Oasis Family Birthing Center,Birthing Center
+Mulherin Custodial Home,Cerebral Palsy Center
+Anniston Dialysis,End Stage Renal Disease Treatment Center
+Athens Dialysis,End Stage Renal Disease Treatment Center
+Atmore Dialysis Center,End Stage Renal Disease Treatment Center
+Barbour County Dialysis,End Stage Renal Disease Treatment Center
+Birmingham Central Dialysis,End Stage Renal Disease Treatment Center
+Birmingham East Dialysis,End Stage Renal Disease Treatment Center
+Birmingham North Dialysis,End Stage Renal Disease Treatment Center
+BMA Dauphin Island Parkway,End Stage Renal Disease Treatment Center
+BMA Langdale,End Stage Renal Disease Treatment Center
+BMA Magnolia,End Stage Renal Disease Treatment Center
+BMA Scottsboro Dialysis Center,End Stage Renal Disease Treatment Center
+Boaz Dialysis,End Stage Renal Disease Treatment Center
+Brewton Dialysis,End Stage Renal Disease Treatment Center
+Center Point Dialysis,End Stage Renal Disease Treatment Center
+Chace Lake Dialysis,End Stage Renal Disease Treatment Center
+Cherokee Community Dialysis LLC.,End Stage Renal Disease Treatment Center
+The Children's Hospital of Alabama ESRD,End Stage Renal Disease Treatment Center
+Crimson Dialysis,End Stage Renal Disease Treatment Center
+Crown Dialysis,End Stage Renal Disease Treatment Center
+DCI-Evergreen,End Stage Renal Disease Treatment Center
+Demopolis Dialysis,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc - Pell City,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc. Dothan,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Birmingham,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Cullman,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Decatur,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Enterprise,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Eufaula,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./Montgomery,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc./South Cullman,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc.Moulton,End Stage Renal Disease Treatment Center
+Dialysis Clinic Inc.-Phenix City,End Stage Renal Disease Treatment Center
+Dialysis Services of Dadeville,End Stage Renal Disease Treatment Center
+Dialysis Services of Decatur,End Stage Renal Disease Treatment Center
+Dothan Dialysis,End Stage Renal Disease Treatment Center
+Ensley Dialysis,End Stage Renal Disease Treatment Center
+Enterprise Dialysis,End Stage Renal Disease Treatment Center
+Eufaula Dialysis,End Stage Renal Disease Treatment Center
+Fayette Dialysis,End Stage Renal Disease Treatment Center
+Florence Dialysis,End Stage Renal Disease Treatment Center
+FMC Capitol City,End Stage Renal Disease Treatment Center
+FMC Chase Dialysis Center,End Stage Renal Disease Treatment Center
+FMC Dialysis Services Odyssey,End Stage Renal Disease Treatment Center
+FMC Dialysis Services Selma,End Stage Renal Disease Treatment Center
+FMC Home Therapy Services of Baldwin County,End Stage Renal Disease Treatment Center
+FMC of East Jefferson,End Stage Renal Disease Treatment Center
+FMC Thomasville,End Stage Renal Disease Treatment Center
+FMC Tombigbee,End Stage Renal Disease Treatment Center
+FMC West Mobile,End Stage Renal Disease Treatment Center
+FMC Whetstone,End Stage Renal Disease Treatment Center
+FMS Endeavour Dialysis Center,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Alexander City,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Arab,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Attalla,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Azalea City,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Central Mobile,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care East Mobile,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Foley,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Foothills Dialysis,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Gadsden,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Hope Hull,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Madison Home,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Metro Huntsville,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Mobile,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Montclair,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Montgomery,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Narrow Lane,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Oak Mountain,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care of Florence,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Phenix City,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Port City Dialysis,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Saraland,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Shelby,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care South Avenue,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Troy,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care Union Springs,End Stage Renal Disease Treatment Center
+Fresenius Kidney Care USA Midtown,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Albertville,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Anniston Home Therapy,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Birmingham Home,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Birmingham Metro,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Camellia,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Decatur,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Dialysis Services of Bay Minette,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Discovery Dialysis Center,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Eastern Shore,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Forestdale,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Hoover,End Stage Renal Disease Treatment Center
+Fresenius Medical Care McCalla,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Montevallo,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Montgomery Home Services,End Stage Renal Disease Treatment Center
+Fresenius Medical Care of Auburn,End Stage Renal Disease Treatment Center
+Fresenius Medical Care of Dallas County,End Stage Renal Disease Treatment Center
+Fresenius Medical Care of Gardendale,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Opelika,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Pell City,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Rocket City,End Stage Renal Disease Treatment Center
+Fresenius Medical Care South Mobile,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Tallassee,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Tranquility,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Trussville,End Stage Renal Disease Treatment Center
+Fresenius Medical Care University of South Alabama,End Stage Renal Disease Treatment Center
+Fresenius Medical Care USA Jaguar,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Valley Creek,End Stage Renal Disease Treatment Center
+Fresenius Medical Care West Madison,End Stage Renal Disease Treatment Center
+Fresenius Medical Care Prattville,End Stage Renal Disease Treatment Center
+Fresenius Medical Care-Fairfield,End Stage Renal Disease Treatment Center
+Fresenius Medical Services of Prichard,End Stage Renal Disease Treatment Center
+Fresenius Medical Services of Taylor Road,End Stage Renal Disease Treatment Center
+Fresenius Mobile Transitional Care and Home Therapies,End Stage Renal Disease Treatment Center
+Gadsden Dialysis,End Stage Renal Disease Treatment Center
+Greene County Dialysis,End Stage Renal Disease Treatment Center
+Greystone Dialysis,End Stage Renal Disease Treatment Center
+Gulf Shores Dialysis Center,End Stage Renal Disease Treatment Center
+Home Options of Dothan,End Stage Renal Disease Treatment Center
+Huntsville Dialysis Center,End Stage Renal Disease Treatment Center
+Huntsville Home,End Stage Renal Disease Treatment Center
+Imperial Home Training,End Stage Renal Disease Treatment Center
+Jewel Dialysis,End Stage Renal Disease Treatment Center
+Landmark Dialysis Clinic,End Stage Renal Disease Treatment Center
+Leeds Dialysis,End Stage Renal Disease Treatment Center
+Limestone County Dialysis,End Stage Renal Disease Treatment Center
+Magic City Dialysis,End Stage Renal Disease Treatment Center
+Majestic Dialysis,End Stage Renal Disease Treatment Center
+Marshall County Home Training,End Stage Renal Disease Treatment Center
+Model City Home Training,End Stage Renal Disease Treatment Center
+Monarch Dialysis,End Stage Renal Disease Treatment Center
+Muscle Shoals Dialysis,End Stage Renal Disease Treatment Center
+North Alabama Home Dialysis LLC,End Stage Renal Disease Treatment Center
+Northport Dialysis,End Stage Renal Disease Treatment Center
+Northriver Home Dialysis,End Stage Renal Disease Treatment Center
+Opelika Dialysis Center,End Stage Renal Disease Treatment Center
+Ozark Dialysis,End Stage Renal Disease Treatment Center
+Perry County Dialysis,End Stage Renal Disease Treatment Center
+Phenix City Dialysis Center,End Stage Renal Disease Treatment Center
+Physicians Choice Dialysis of Auburn LLC,End Stage Renal Disease Treatment Center
+Physicians Choice Dialysis-Elmore County,End Stage Renal Disease Treatment Center
+Physicians Choice Dialysis-Montgomery,End Stage Renal Disease Treatment Center
+Physicians Choice Dialysis-Prattville,End Stage Renal Disease Treatment Center
+Pickens County Dialysis,End Stage Renal Disease Treatment Center
+Prattville Community Dialysis,End Stage Renal Disease Treatment Center
+RAI - East 11th St - Anniston,End Stage Renal Disease Treatment Center
+RAI - Henry Rd - Jacksonville,End Stage Renal Disease Treatment Center
+RAI - Snow St - Oxford,End Stage Renal Disease Treatment Center
+Rainbow City Dialysis,End Stage Renal Disease Treatment Center
+RCG Bessemer Kidney Center,End Stage Renal Disease Treatment Center
+RCG Cahaba Valley,End Stage Renal Disease Treatment Center
+RCG Clanton,End Stage Renal Disease Treatment Center
+RCG-Fort Payne,End Stage Renal Disease Treatment Center
+RCG-Midfield,End Stage Renal Disease Treatment Center
+RCG-Oneonta,End Stage Renal Disease Treatment Center
+RCG-Princeton,End Stage Renal Disease Treatment Center
+RCG-Sylacauga,End Stage Renal Disease Treatment Center
+RCG-Walker,End Stage Renal Disease Treatment Center
+Red Mountain Home Training Dialysis,End Stage Renal Disease Treatment Center
+Renaissance Dialysis,End Stage Renal Disease Treatment Center
+Renal Care Group-Andalusia,End Stage Renal Disease Treatment Center
+Roanoke Dialysis Clinic,End Stage Renal Disease Treatment Center
+RRC Northridge,End Stage Renal Disease Treatment Center
+Russellville Dialysis,End Stage Renal Disease Treatment Center
+Sheffield Dialysis,End Stage Renal Disease Treatment Center
+Springs Dialysis,End Stage Renal Disease Treatment Center
+Steel City Dialysis,End Stage Renal Disease Treatment Center
+Sylacauga Dialysis,End Stage Renal Disease Treatment Center
+Talladega Dialysis,End Stage Renal Disease Treatment Center
+Tuscaloosa Dialysis,End Stage Renal Disease Treatment Center
+Tuscaloosa University Dialysis,End Stage Renal Disease Treatment Center
+Walker County Dialysis,End Stage Renal Disease Treatment Center
+White Bluff Dialysis,End Stage Renal Disease Treatment Center
+Wiregrass Kidney Center,End Stage Renal Disease Treatment Center
+Abbeville Family Health Center,Federally Qualified Health Center
+Accordia Health,Federally Qualified Health Center
+Accordia Health - COP,Federally Qualified Health Center
+Accordia Health - Rockford,Federally Qualified Health Center
+Accordia Health - ZOP,Federally Qualified Health Center
+Accordia Pediatrics and Pediatric Psychiatry,Federally Qualified Health Center
+Aiello/Buskey Women and Children Center,Federally Qualified Health Center
+Alabama Health Care Center,Federally Qualified Health Center
+Alabama Regional Medical Services,Federally Qualified Health Center
+Alberta Health Center,Federally Qualified Health Center
+Aliceville Family Practice,Federally Qualified Health Center
+Aliceville Health and Wellness Center,Federally Qualified Health Center
+Altapointe Health Systems Inc,Federally Qualified Health Center
+Altapointe Health Systems Inc,Federally Qualified Health Center
+Altapointe Health Systems Inc,Federally Qualified Health Center
+AltaPointe Health Systems Inc.,Federally Qualified Health Center
+Andalusia Family Health Center,Federally Qualified Health Center
+Anniston Quality Health Care,Federally Qualified Health Center
+ARMS Crestwood Medical Center,Federally Qualified Health Center
+ARMS Ensley Healthcenter,Federally Qualified Health Center
+ARMS Northern Health Center,Federally Qualified Health Center
+Athens Family Health Care Center,Federally Qualified Health Center
+Athens Family Health Center,Federally Qualified Health Center
+Autaugaville Family Health Center,Federally Qualified Health Center
+Bellingrath School Based Health Center,Federally Qualified Health Center
+Bessemer Health Center,Federally Qualified Health Center
+Bessemer Neighborhood Health Center,Federally Qualified Health Center
+Birmingham Health Care Inc.,Federally Qualified Health Center
+Birmingham Healthcare Southwest,Federally Qualified Health Center
+Blount County Quality Health Care,Federally Qualified Health Center
+Brewton Family Dental Center,Federally Qualified Health Center
+Brewton Family Medical Center,Federally Qualified Health Center
+Bryant Primary Health Center,Federally Qualified Health Center
+Cabaha Medical Care,Federally Qualified Health Center
+Cabaha Medical Care,Federally Qualified Health Center
+Cahaba Medical Care,Federally Qualified Health Center
+Cahaba Medical Care,Federally Qualified Health Center
+Cahaba Medical Care - Ability Clinic,Federally Qualified Health Center
+Cahaba Medical Care - Brent Elementry School,Federally Qualified Health Center
+Cahaba Medical Care - Ensley,Federally Qualified Health Center
+Cahaba Medical Care - Fairfield High Preparatory,Federally Qualified Health Center
+Cahaba Medical Care - Glen Oaks Elementary,Federally Qualified Health Center
+Cahaba Medical Care - Hemphil Elementary,Federally Qualified Health Center
+Cahaba Medical Care - Robinson Elementary,Federally Qualified Health Center
+Cahaba Medical Care Fairfield,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation,Federally Qualified Health Center
+Cahaba Medical Care Foundation - CJ Donald Elementary,Federally Qualified Health Center
+Cahaba Medical Center,Federally Qualified Health Center
+Calhoun Quality Health Care,Federally Qualified Health Center
+Canterberry Family Practice Center,Federally Qualified Health Center
+Capital Family Health Care Center,Federally Qualified Health Center
+Capstone Cottage,Federally Qualified Health Center
+Capstone Health,Federally Qualified Health Center
+Capstone Rural Health Center,Federally Qualified Health Center
+Capstone Rural Health Center - Nauvoo,Federally Qualified Health Center
+Capstone Viking Health,Federally Qualified Health Center
+Castleberry Medical Center,Federally Qualified Health Center
+Central Alabama Comprehensive Health Inc,Federally Qualified Health Center
+Central Alabama Comprehensive Health Inc.,Federally Qualified Health Center
+Central Alabama Comprehensive Health Inc. Hurtsboro Clinic,Federally Qualified Health Center
+Central Alabama Comprehensive Health Inc. Midway Clinic,Federally Qualified Health Center
+Central Alabama Comprehensive Pittsview Clinic,Federally Qualified Health Center
+Central North Alabama Health Services Inc,Federally Qualified Health Center
+Central North Alabama Health Services Inc.,Federally Qualified Health Center
+Central Plaza Towers Health Center,Federally Qualified Health Center
+Chambers Quality Health Care,Federally Qualified Health Center
+Charles White Family Health Center,Federally Qualified Health Center
+Cherokee Quality Health Care,Federally Qualified Health Center
+Chisholm Family Health Care Center,Federally Qualified Health Center
+Chisholm Family Health Center,Federally Qualified Health Center
+Christ Health Center Inc,Federally Qualified Health Center
+Christ Health Center Inc,Federally Qualified Health Center
+Christ Health Center Inc.,Federally Qualified Health Center
+Christ Health Center Inc.,Federally Qualified Health Center
+Christ Health Pediatrics,Federally Qualified Health Center
+Clanton Family Health Center,Federally Qualified Health Center
+Clay Quality Health Care,Federally Qualified Health Center
+Clayton Medical Center,Federally Qualified Health Center
+Cleburne Quality Healthcare,Federally Qualified Health Center
+Cullman Quality Health Care,Federally Qualified Health Center
+Dauphin Island Parkway Health Center,Federally Qualified Health Center
+Dekalb Quality Health Care,Federally Qualified Health Center
+Demopolis Health Center,Federally Qualified Health Center
+Demopolis Health Center,Federally Qualified Health Center
+Dothan Family Health Center,Federally Qualified Health Center
+Douglas Medical Clinic,Federally Qualified Health Center
+Dozier Family Health Center,Federally Qualified Health Center
+Dr Albert Thomas Family Medical Center,Federally Qualified Health Center
+Eclectic Family Health Center,Federally Qualified Health Center
+Enterprise Children's Center,Federally Qualified Health Center
+Eufaula Family Health Center,Federally Qualified Health Center
+Eutaw Health Center,Federally Qualified Health Center
+Evergreen Family Medical Center,Federally Qualified Health Center
+Family Health Care Cliinic Inc.,Federally Qualified Health Center
+Family Health Care Cliinic Inc.,Federally Qualified Health Center
+Family Health Care Cliinic Inc.,Federally Qualified Health Center
+Family Health Care Cliinic Inc.,Federally Qualified Health Center
+Family Health Care Cliinic Inc.,Federally Qualified Health Center
+Family Health Care Clinic,Federally Qualified Health Center
+Family Health Center of Eufaula,Federally Qualified Health Center
+The Family Medical Center,Federally Qualified Health Center
+Family Oriented Primary Health Care Center North Mobile,Federally Qualified Health Center
+Family Oriented Primary Health Care Clinic,Federally Qualified Health Center
+Family Oriented Primary Health Care Clinic - Citronelle,Federally Qualified Health Center
+Foley School Based Health Center,Federally Qualified Health Center
+Fort Payne Health Center,Federally Qualified Health Center
+Franklin Evergreen Family Health Center,Federally Qualified Health Center
+Franklin Medical and Dental Express,Federally Qualified Health Center
+Franklin Memorial Mobile Center,Federally Qualified Health Center
+Franklin's Wellness Smiles Vision Express,Federally Qualified Health Center
+Frisco City Family Medical Center,Federally Qualified Health Center
+Frisco City Medical Center,Federally Qualified Health Center
+Fulton Family Medical,Federally Qualified Health Center
+Fyffe Primary Health Center,Federally Qualified Health Center
+Gadsden Family and Student Health Solutions,Federally Qualified Health Center
+Gateway Family Health Center,Federally Qualified Health Center
+Geneva Family Health Center,Federally Qualified Health Center
+Georgiana Medical Center,Federally Qualified Health Center
+Gilberttown Medical Center,Federally Qualified Health Center
+The Hadley Women Center,Federally Qualified Health Center
+Hale County Health Center,Federally Qualified Health Center
+Happi Health,Federally Qualified Health Center
+Happi Health,Federally Qualified Health Center
+Happi Health,Federally Qualified Health Center
+Happi Urgent Care,Federally Qualified Health Center
+Hayneville Family Health Center,Federally Qualified Health Center
+Highland Gardens School Based Health Center,Federally Qualified Health Center
+Hilltop Health,Federally Qualified Health Center
+J. W. Stewart Neighborhood Health Clinic,Federally Qualified Health Center
+Jackson County Rural Health Project,Federally Qualified Health Center
+La Clinica De Baldwin,Federally Qualified Health Center
+Lafayette Family,Federally Qualified Health Center
+Living Well Specialty Clinic,Federally Qualified Health Center
+Lower Alabama Family Medical Center,Federally Qualified Health Center
+Lower Peach Tree Medical Center,Federally Qualified Health Center
+Loxley Family Medical Center,Federally Qualified Health Center
+Marion Health Center,Federally Qualified Health Center
+Marks Village Health Center,Federally Qualified Health Center
+The Maysville Medical Center,Federally Qualified Health Center
+Midtown Clinic Inc.,Federally Qualified Health Center
+Mobile County Board of Health,Federally Qualified Health Center
+Montevallo Family Health Center,Federally Qualified Health Center
+Montgomery Primary Health Care Center Health Services Inc.,Federally Qualified Health Center
+Mostellar Medical Center,Federally Qualified Health Center
+New Market Clinic,Federally Qualified Health Center
+North East Regional Care Center,Federally Qualified Health Center
+North Sand Mountain Primary Health Center,Federally Qualified Health Center
+Northeast Alabama Health Services Inc.,Federally Qualified Health Center
+Oakman Health Center,Federally Qualified Health Center
+Paint Rock Valley Health Center,Federally Qualified Health Center
+Physicians Care of Butler,Federally Qualified Health Center
+Physicians Care of Camden,Federally Qualified Health Center
+Physicians Care of Grove Hill,Federally Qualified Health Center
+Physicians Care of Sweet Water,Federally Qualified Health Center
+Physicians Care of Thomasville,Federally Qualified Health Center
+Pine Apple Health Center,Federally Qualified Health Center
+Poarch Creek Indians Health Department,Federally Qualified Health Center
+Priceville Family Medicine,Federally Qualified Health Center
+Pro-Care - Emma Sansom Center,Federally Qualified Health Center
+Pro-Care Colley Homes,Federally Qualified Health Center
+Quality Health Express,Federally Qualified Health Center
+Quality Health Express II,Federally Qualified Health Center
+Quality of Life Health Services Inc.,Federally Qualified Health Center
+Ramer Health Center,Federally Qualified Health Center
+Red Level Medical Center,Federally Qualified Health Center
+RHMP Dallas County Health Center,Federally Qualified Health Center
+River Region Health Center,Federally Qualified Health Center
+Roberta O. Watts Neighborhood Clinic,Federally Qualified Health Center
+Rogersville Family Practice,Federally Qualified Health Center
+Rural Health Medical Program Inc.,Federally Qualified Health Center
+Sardis City Medical Clinic,Federally Qualified Health Center
+SARHA Doctors Center,Federally Qualified Health Center
+School Based Clinic,Federally Qualified Health Center
+Sipsey Health Center,Federally Qualified Health Center
+Skyline Primary Health Center,Federally Qualified Health Center
+Slocomb Family Health Center,Federally Qualified Health Center
+South Baldwin Family Health Center,Federally Qualified Health Center
+Southeast Alabama Rural Health Association Newton Medical Center,Federally Qualified Health Center
+Southwest Alabama Health Services,Federally Qualified Health Center
+Sparkman Family Practice and Urgent Care,Federally Qualified Health Center
+Steele City Medical Center,Federally Qualified Health Center
+Sumter County Health Center,Federally Qualified Health Center
+Susie E Allen Health Center,Federally Qualified Health Center
+SW Mobile Health Center,Federally Qualified Health Center
+Talladega Quality Health Care,Federally Qualified Health Center
+The Capstone Rural Health Center,Federally Qualified Health Center
+The Family Health Center,Federally Qualified Health Center
+Thomaston Health Center,Federally Qualified Health Center
+Thrive Alabama,Federally Qualified Health Center
+Thrive Alabama,Federally Qualified Health Center
+Thrive Alabama,Federally Qualified Health Center
+Tri County Medical Center Inc.,Federally Qualified Health Center
+Tri-County Medical Center Inc. Atmore Clinic,Federally Qualified Health Center
+Tri-County Medical Center Inc.,Federally Qualified Health Center
+Uniontown Health Center,Federally Qualified Health Center
+Uriah Family Medical Center,Federally Qualified Health Center
+Vrendenburgh Health Center,Federally Qualified Health Center
+W. T. Scruggs Medical Center,Federally Qualified Health Center
+Wadley Cornerstone Clinic,Federally Qualified Health Center
+West Blocton Health Center,Federally Qualified Health Center
+West Escambia Family Medical Center,Federally Qualified Health Center
+West Mobile Family Medical Center,Federally Qualified Health Center
+West Tuscaloosa Health Center,Federally Qualified Health Center
+Whatley Health Services at Aliceville,Federally Qualified Health Center
+Whatley Health Services at Carrollton,Federally Qualified Health Center
+Whatley Health Services Inc.,Federally Qualified Health Center
+Whatley Health Services Inc,Federally Qualified Health Center
+Woodstock Family Medicine,Federally Qualified Health Center
+Yearwood Medical Clinic,Federally Qualified Health Center
+Yellow Bluff - Camden Health Center,Federally Qualified Health Center
+Baldwin Health Freestanding Emergency Department,Freestanding Emergency Department
+Brookwood Baptist Medical Center Freestanding Emergency Department,Freestanding Emergency Department
+Crestwood Medical Center Freestanding Emergency Room - Harvest,Freestanding Emergency Department
+Cullman Regional Medical Center Hartselle Health Park FED,Freestanding Emergency Department
+East Alabama Medical Center Freestanding Emergency Department,Freestanding Emergency Department
+Grandview Medical Center Freestanding ED,Freestanding Emergency Department
+Medical West Freestanding Emergency Department,Freestanding Emergency Department
+Mobile Infirmary Freestanding Emergency Department-Saraland,Freestanding Emergency Department
+Thomas Hospital Freestanding Emergency Department,Freestanding Emergency Department
+UAB Medicine Freestanding Emergency Department at Gardendale,Freestanding Emergency Department
+UAB Medicine St. Vincent's East Freestanding Emergency Department,Freestanding Emergency Department
+USA Health University Hospital Freestanding Emergency Department,Freestanding Emergency Department
+Adoration Home Health,Home Health Agency
+Alabama Department of Public Health Home Care,Home Health Agency
+Alabama Department of Public Health Home Care,Home Health Agency
+Alabama Home Health Care Providers Inc.,Home Health Agency
+Alabama HomeCare,Home Health Agency
+Alabama HomeCare of Coosa Valley,Home Health Agency
+Alabama HomeCare of Cullman,Home Health Agency
+Alabama Homecare of Fort Payne,Home Health Agency
+Alabama HomeCare of Gadsden,Home Health Agency
+Alabama HomeCare of Hamilton,Home Health Agency
+Alabama HomeCare of Montgomery,Home Health Agency
+Alabama HomeCare of Oneonta,Home Health Agency
+Amedisys Home Health,Home Health Agency
+Amedisys Home Health,Home Health Agency
+Amedisys Home Health,Home Health Agency
+Amedisys Home Health Care,Home Health Agency
+Amedisys Home Health Care-Gadsden,Home Health Agency
+Amedisys Home Health Care-Sylacauga,Home Health Agency
+Amedisys Home Health Lakeshore of Birmingham,Home Health Agency
+Amedisys Home Health of Anniston,Home Health Agency
+Amedisys Home Health of Bay Minette,Home Health Agency
+Amedisys Home Health of Brent,Home Health Agency
+Amedisys Home Health of Brewton,Home Health Agency
+Amedisys Home Health of Citronelle,Home Health Agency
+Amedisys Home Health of Demopolis,Home Health Agency
+Amedisys Home Health of Fayette,Home Health Agency
+Amedisys Home Health of Florence,Home Health Agency
+Amedisys Home Health of Foley,Home Health Agency
+Amedisys Home Health of Fort Payne,Home Health Agency
+Amedisys Home Health of Huntsville,Home Health Agency
+Amedisys Home Health of Monroeville,Home Health Agency
+Amedisys Home Health of Montgomery,Home Health Agency
+Amedisys Home Health of Opelika,Home Health Agency
+Amedisys Home Health of Reform,Home Health Agency
+Amedisys Home Health of Roanoke,Home Health Agency
+Amedisys Home Health of Selma,Home Health Agency
+Amedisys Home Health of Tuscaloosa,Home Health Agency
+Amedisys Home Health of Walker,Home Health Agency
+Amedisys Home Health a Lawrence Medical Center Partner,Home Health Agency
+Amedisys Home Health-Thomasville,Home Health Agency
+Athens-Limestone Homecare,Home Health Agency
+Atmore Community Home Care,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Aveanna Home Health,Home Health Agency
+Barbour County Home Health Care,Home Health Agency
+Bryan W. Whitfield Memorial Hospital Home Health,Home Health Agency
+Butler - Ivy Creek Home Health. LLC,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Centerwell Home Health,Home Health Agency
+Cherokee Home Health,Home Health Agency
+Chilton County Home HealthCare,Home Health Agency
+Clay County Hospital Home Care LLC,Home Health Agency
+Coastal Home Health,Home Health Agency
+Coffee County Home Care,Home Health Agency
+Commmunity Home Health Milbrook,Home Health Agency
+Community Home Health,Home Health Agency
+Compassus Home Health,Home Health Agency
+Compassus Home Health,Home Health Agency
+Crenshaw County Home Care,Home Health Agency
+Cullman County Home Care,Home Health Agency
+Cullman Regional Home Care,Home Health Agency
+D. W. McMillan Home Health,Home Health Agency
+Dale Medical Center Home Health,Home Health Agency
+Dallas County Home Care,Home Health Agency
+DCH Home Health Care Agency,Home Health Agency
+Decatur Morgan HomeCare,Home Health Agency
+Dekalb County Home Care,Home Health Agency
+EAMC - Lanier Home Health,Home Health Agency
+Enhabilt Home Health-Huntsville,Home Health Agency
+Enhabilt Home Health-Muscle Shoal,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health,Home Health Agency
+Enhabit Home Health - Albertville,Home Health Agency
+Enhabit Home Health - Alexander City,Home Health Agency
+Enhabit Home Health - Anniston,Home Health Agency
+Enhabit Home Health - Clanton,Home Health Agency
+Enhabit Home Health - Gadsden,Home Health Agency
+Enhabit Home Health - Greenville,Home Health Agency
+Enhabit Home Health - Jasper,Home Health Agency
+Enhabit Home Health - Montgomery,Home Health Agency
+Enhabit Home Health - Oneonta,Home Health Agency
+Enhabit Home Health - Opelika,Home Health Agency
+Enhabit Home Health-Hamilton,Home Health Agency
+Enhabit Home Health-Scottsboro,Home Health Agency
+Etowah County Home Health,Home Health Agency
+Evergreen Home Care,Home Health Agency
+Fayette Medical Center HomeCare,Home Health Agency
+Gabbies Residential Care,Home Health Agency
+Geneva County Home Care,Home Health Agency
+Greene County Home Health Agency,Home Health Agency
+Hale County Hospital Home Health,Home Health Agency
+Highlands Home Health,Home Health Agency
+Home First Home Healthcare,Home Health Agency
+HomeCare of East Alabama Medical Center,Home Health Agency
+Houston County Home Health Care,Home Health Agency
+Huntsville Hospital HomeCare,Home Health Agency
+Huntsville Hospital Homecare-Madison,Home Health Agency
+Infirmary HomeCare,Home Health Agency
+Ivy Creek Home Health of Elmore,Home Health Agency
+Jackson County Home Care,Home Health Agency
+Jackson Medical Center Home Health,Home Health Agency
+Jefferson County Home Care,Home Health Agency
+Keller Home Care,Home Health Agency
+Keller Home Care,Home Health Agency
+Kindred at Home,Home Health Agency
+Lake Martin Home Health,Home Health Agency
+Lake Martin Home Health,Home Health Agency
+Lamar County Home Care,Home Health Agency
+Lawrence County Home Care,Home Health Agency
+Lee County Home Care,Home Health Agency
+LHC Homecare of South Alabama,Home Health Agency
+LHC HomeCare of South Alabama,Home Health Agency
+Limestone County Home Care,Home Health Agency
+LV Stabler Memorial Home Health,Home Health Agency
+Marion County Home Health Care,Home Health Agency
+Marshall County Home Health Care,Home Health Agency
+Medical Centers HomeCare,Home Health Agency
+Monroe County Home Care,Home Health Agency
+Monroe County Hospital's Progressive Home Care,Home Health Agency
+Morgan County Home Health,Home Health Agency
+Northwest Home Health,Home Health Agency
+Northwest Home Health-Haleyville,Home Health Agency
+Northwest Regional Home Health Care,Home Health Agency
+Preferred Home Health,Home Health Agency
+Preferred Home Health,Home Health Agency
+Prime Home Health of Lee County,Home Health Agency
+ProHealth Home Health,Home Health Agency
+ProHealth Home Health,Home Health Agency
+ProHealth Home Health,Home Health Agency
+ProHealth Home Health,Home Health Agency
+Prohealth Home Health,Home Health Agency
+ProHealth Home Health,Home Health Agency
+ProHealth Home Health LLC,Home Health Agency
+ProHealth Home Health LLC,Home Health Agency
+Prohealth Home Health-Montgomery,Home Health Agency
+Randolph County Home Care,Home Health Agency
+Saad Healthcare,Home Health Agency
+Saad Healthcare - Fairhope,Home Health Agency
+Southeast Alabama Homecare,Home Health Agency
+Southeast Alabama Homecare,Home Health Agency
+Southeast Alabama Homecare LLC,Home Health Agency
+Spectrum Home Health Agency,Home Health Agency
+Springhill Home Health & Hospice,Home Health Agency
+Suncrest Home Health,Home Health Agency
+Talladega County Home Care Agency,Home Health Agency
+Thomas Home Health,Home Health Agency
+Troy Regional Medical Center Home Health,Home Health Agency
+Tuscaloosa County Home Care,Home Health Agency
+Washington County Home Care,Home Health Agency
+Winston County Home Care,Home Health Agency
+Access Hospice,Hospice
+ACG Hospice - Mobile,Hospice
+ACG Hospice-Andalusia,Hospice
+ACG Hospice-Bay Minette,Hospice
+ACG Hospice-Birmingham,Hospice
+ACG Hospice-Dothan,Hospice
+ACG Hospice-Enterprise,Hospice
+ACG Hospice-Foley,Hospice
+ACG Hospice-Gardendale,Hospice
+ACG Hospice-Montgomery,Hospice
+ACG Hospice-Rainbow City,Hospice
+ACG Hospice-Sylacauga,Hospice
+ACG Hospice-Tuscaloosa,Hospice
+Adoration Hospice Birmingham,Hospice
+Adoration Hospice Gadsden,Hospice
+Adoration Hospice Prattville,Hospice
+Affinity Hospice,Hospice
+Affinity Hospice - Florence,Hospice
+Affinity Hospice - Madison,Hospice
+Affinity Hospice - Pelham,Hospice
+Affinity Hospice - Pell City,Hospice
+Affinity Hospice-Cullman,Hospice
+Alabama Hospice Care of Birmingham,Hospice
+Alabama Hospice Care of East Alabama,Hospice
+Alabama Hospice Care of Mobile,Hospice
+Alabama Hospice Care of Tuscaloosa,Hospice
+Alabama Hospice of the Shoals,Hospice
+Amedisys Hospice Care,Hospice
+Amedisys Hospice Care of Sylacauga,Hospice
+Amedisys Hospice of Birmingham,Hospice
+Amedisys Hospice of Decatur,Hospice
+Amedisys Hospice of Florence,Hospice
+Amedisys Hospice of Gadsden,Hospice
+Amedisys Hospice of Mobile,Hospice
+Amedisys Hospice of Montgomery,Hospice
+Amedisys Hospice of Tuscaloosa,Hospice
+Asercare Hospice of Hamilton,Hospice
+Aveanna Hospice of Andalusia,Hospice
+Aveanna Hospice of Cullman,Hospice
+Aveanna Hospice of Decatur,Hospice
+Aveanna Hospice of Demopolis,Hospice
+Aveanna Hospice of Fairhope,Hospice
+Aveanna Hospice of Gadsden,Hospice
+Aveanna Hospice of Gardendale,Hospice
+Aveanna Hospice of Greenville,Hospice
+Aveanna Hospice of Huntsville,Hospice
+Aveanna Hospice of Jasper,Hospice
+Aveanna Hospice of Mobile,Hospice
+Aveanna Hospice of Montgomery,Hospice
+Aveanna Hospice of Pelham,Hospice
+Aveanna Hospice of Pell City,Hospice
+Aveanna Hospice of Scottsboro,Hospice
+Aveanna Hospice of Sheffield,Hospice
+Baptist Hospice,Hospice
+Chattahoochee Hospice Inc.,Hospice
+Columbus Hospice of Alabama,Hospice
+Community Hospice Care,Hospice
+Community Hospice of Dale Medical Center,Hospice
+Compassus - Auburn,Hospice
+Compassus - Gadsden,Hospice
+Compassus - Roanoke,Hospice
+Compassus - Southern Alabama,Hospice
+Compassus -Auburn Bethany House,Hospice
+Compassus Hospice and Palliative Care - Birmingham,Hospice
+Compassus Hospice Care Suite,Hospice
+Compassus-Florence,Hospice
+Compassus-Huntsville,Hospice
+Compassus-Troy,Hospice
+Coosa Valley Hospice,Hospice
+Cullman Regional Hospice,Hospice
+DaySpring Hospice Andalusia,Hospice
+Dayspring Hospice Dothan,Hospice
+Dayspring Hospice LLC,Hospice
+Enhabit Hospice Albertville,Hospice
+Enhabit Hospice Alexander City,Hospice
+Enhabit Hospice Anniston,Hospice
+Enhabit Hospice Birmingham,Hospice
+Enhabit Hospice Clanton,Hospice
+Enhabit Hospice Cullman,Hospice
+Enhabit Hospice Decatur,Hospice
+Enhabit Hospice Dothan,Hospice
+Enhabit Hospice Enterprise,Hospice
+Enhabit Hospice Gadsden,Hospice
+Enhabit Hospice Greenville,Hospice
+Enhabit Hospice Hamilton,Hospice
+Enhabit Hospice Huntsville,Hospice
+Enhabit Hospice Jasper,Hospice
+Enhabit Hospice Madison County,Hospice
+Enhabit Hospice Mobile,Hospice
+Enhabit Hospice Montgomery,Hospice
+Enhabit Hospice Muscle Shoals,Hospice
+Enhabit Hospice Northport,Hospice
+Enhabit Hospice Oneonta,Hospice
+Enhabit Hospice Opelika,Hospice
+Enhabit Hospice Pell City,Hospice
+Enhabit Hospice Prattville,Hospice
+Enhabit Hospice Rainbow City,Hospice
+Enhabit Hospice Rainsville,Hospice
+Enhabit Hospice Scottsboro,Hospice
+Enhabit Hospice Troy,Hospice
+Expect Care Hospice,Hospice
+Gentiva,Hospice
+Gentiva - Anniston,Hospice
+Gentiva - Birmingham,Hospice
+Gentiva - Cullman,Hospice
+Gentiva - Daphne,Hospice
+Gentiva - Dothan,Hospice
+Gentiva - Florence,Hospice
+Gentiva - Huntsville,Hospice
+Gentiva - Jasper,Hospice
+Gentiva - Mobile,Hospice
+Gentiva - Montgomery,Hospice
+Gentiva - Phenix City,Hospice
+Gentiva - Rainbow City,Hospice
+Heartlite Hospice,Hospice
+Hospice Family Care,Hospice
+Hospice Family Care - Inpatient,Hospice
+Hospice of Alabama,Hospice
+Hospice of Alabama-Gadsden,Hospice
+Hospice of Alabama-Huntsville,Hospice
+Hospice of Clay County,Hospice
+Hospice of Limestone County,Hospice
+Hospice of Monroe County,Hospice
+Hospice of North Alabama LLC,Hospice
+Hospice of North Alabama-Cullman,Hospice
+Hospice of North Alabama-Russellville,Hospice
+Hospice of North Alabama-Scottsboro,Hospice
+Hospice of Northwest Alabama,Hospice
+Hospice of the Valley Inc.,Hospice
+Hospice of West Alabama,Hospice
+Hospice of West Alabama Inc. - Homecare,Hospice
+Ivy Creek Hospice,Hospice
+Ivy Creek Hospice of Elmore,Hospice
+Lakeside Hospice Inc.,Hospice
+Legacy Hospice,Hospice
+Legacy Hospice of the East LLC,Hospice
+Oasis Healthcare-Moody,Hospice
+Oasis Healthcare-Tuscaloosa,Hospice
+Preferred Hospice,Hospice
+ProHealth Hospice - Jasper,Hospice
+ProHealth Hospice- Tuscaloosa,Hospice
+ProHealth Hospice-Central Alabama,Hospice
+ProHealth Hospice-Cherokee,Hospice
+ProHealth Hospice-Gadsden,Hospice
+Saad Hospice at Providence,Hospice
+Saad Hospice Services,Hospice
+Shepherd's Cove Hospice,Hospice
+Shepherd's Cove IPU,Hospice
+Southeast Hospice Network - Lee,Hospice
+Southeast Hospice Network (Montgomery),Hospice
+Southeast Hospice Network (Shelby),Hospice
+Southeast Hospice Network (Walker),Hospice
+SouthernCare Atmore,Hospice
+SouthernCare Daphne,Hospice
+SouthernCare Dothan,Hospice
+SouthernCare Enterprise,Hospice
+SouthernCare Evergreen,Hospice
+SouthernCare Greenville,Hospice
+SouthernCare Grove Hill,Hospice
+SouthernCare Mobile,Hospice
+SouthernCare New Beacon - Alabaster,Hospice
+SouthernCare New Beacon - Anniston,Hospice
+SouthernCare New Beacon - Jasper,Hospice
+SouthernCare New Beacon  N Birmingham,Hospice
+SouthernCare New Beacon - Scottsboro,Hospice
+SouthernCare New Beacon - Sylacauga,Hospice
+SouthernCare New Beacon Alexander City,Hospice
+SouthernCare New Beacon Clanton,Hospice
+SouthernCare New Beacon Cullman,Hospice
+SouthernCare New Beacon Decatur,Hospice
+SouthernCare New Beacon Demopolis,Hospice
+SouthernCare New Beacon Gadsden,Hospice
+SouthernCare New Beacon Huntsville,Hospice
+SouthernCare New Beacon Montgomery,Hospice
+SouthernCare New Beacon Quad Cities,Hospice
+SouthernCare New Beacon S. Birmingham,Hospice
+SouthernCare New Beacon Selma,Hospice
+Springhill Hospice,Hospice
+Springhill Hospice - Baldwin County,Hospice
+St. Joseph Hospice of South Alabama LLC,Hospice
+The Retreat Hospice Inpatient By Saad,Hospice
+Traditions Health of Butler,Hospice
+Traditions Health of Prattville,Hospice
+Traditions Health of Selma,Hospice
+VitalCaring Group,Hospice
+Vitas Healthcare of Daphne,Hospice
+Vitas Healthcare of Dothan,Hospice
+Vitas Healthcare of Mobile,Hospice
+5ive Star Diagnostic Solutions LLC,Independent Clinical Laboratories
+AEL- Birmingham,Independent Clinical Laboratories
+AEL- Coosa Valley,Independent Clinical Laboratories
+Aids Alabama,Independent Clinical Laboratories
+AIDS Alabama South,Independent Clinical Laboratories
+Alabama Fertility Specialists,Independent Clinical Laboratories
+Alabama Fertility Specialists - Huntsville,Independent Clinical Laboratories
+Alabama Fertility Specialists - Montgomery,Independent Clinical Laboratories
+Alabama Oncology,Independent Clinical Laboratories
+Alabama Pathology Associates P.C.,Independent Clinical Laboratories
+Alimetrix Inc.,Independent Clinical Laboratories
+American Drug Testing Lab LLC,Independent Clinical Laboratories
+American Health Imaging 3T of Brookwood,Independent Clinical Laboratories
+American Health Imaging of Birmingham,Independent Clinical Laboratories
+American Health Imaging of Grandview,Independent Clinical Laboratories
+American Health Imaging of Greystone,Independent Clinical Laboratories
+American Health Imaging of Homewood,Independent Clinical Laboratories
+American Health Imaging of Huntsville,Independent Clinical Laboratories
+American Health Imaging of Madison,Independent Clinical Laboratories
+American Health Imaging of Shelby,Independent Clinical Laboratories
+Andalusia Health Laboratory,Independent Clinical Laboratories
+Anniston Family Practice P.C. Laboratory,Independent Clinical Laboratories
+Apex Diagnostic Lab,Independent Clinical Laboratories
+ARCpoint Labs at Greystone,Independent Clinical Laboratories
+Associated Pathologists LLC DBA PathGroup,Independent Clinical Laboratories
+Athens-Limestone Hospital Laboratory,Independent Clinical Laboratories
+Atmore Community Hospital Laboratory,Independent Clinical Laboratories
+Auburn University Health Care & Education Clinic,Independent Clinical Laboratories
+Auburn University Pharmaceutical Care Center Laboratory,Independent Clinical Laboratories
+Baldwin Health Freestanding Emergency Department Lab,Independent Clinical Laboratories
+Baldwin Health Laboratory,Independent Clinical Laboratories
+Baptist Health Calhoun Hospital Laboratory,Independent Clinical Laboratories
+Baptist Health Princeton Hospital-Hoover Laboratory,Independent Clinical Laboratories
+Baptist Health Princeton Hospital-Princeton Laboratory,Independent Clinical Laboratories
+Baptist Medical Center East,Independent Clinical Laboratories
+Baptist Medical Center East Laboratory,Independent Clinical Laboratories
+Baptist Medical Center South Laboratory,Independent Clinical Laboratories
+Bibb Medical Center Laboratory,Independent Clinical Laboratories
+BioLife Plasma Services L.P.,Independent Clinical Laboratories
+BioLife Plasma Services -Mobile,Independent Clinical Laboratories
+BioLife Plasma Services-Birmingham,Independent Clinical Laboratories
+Biomat USA,Independent Clinical Laboratories
+Biomat USA Inc.,Independent Clinical Laboratories
+Biomat USA Inc.,Independent Clinical Laboratories
+Biomat USA Inc.,Independent Clinical Laboratories
+Biomat USA Inc. - Huntsville,Independent Clinical Laboratories
+Biomat USA Inc. - Opelika,Independent Clinical Laboratories
+Biomat USA Inc. Tucaloosa,Independent Clinical Laboratories
+Birmingham AIDS Outreach,Independent Clinical Laboratories
+Birmingham Division of the Bureau of Clinical Laboratories,Independent Clinical Laboratories
+Birmingham Gastroenterology Assoc Path Lab,Independent Clinical Laboratories
+Breast Health Center - ICL,Independent Clinical Laboratories
+Brookwood Baptist Medical Center Laboratory,Independent Clinical Laboratories
+Bryan W. Whitfield Memorial Hospital Laboratory,Independent Clinical Laboratories
+Bullock County Rural Emergency Hospital Laboratory,Independent Clinical Laboratories
+Bureau of Clinical Laboratories,Independent Clinical Laboratories
+Cahaba Valley 280 PSC,Independent Clinical Laboratories
+Calhoun Quality Healthcare,Independent Clinical Laboratories
+Carmichael Imaging #1 LLC,Independent Clinical Laboratories
+Cassie Medical Training Services LLC,Independent Clinical Laboratories
+Catapult Health,Independent Clinical Laboratories
+CDI Decatur,Independent Clinical Laboratories
+CDI-Florence,Independent Clinical Laboratories
+Cellular Immunobiology Laboratory The University of Alabama-Birmingham,Independent Clinical Laboratories
+Cellular Therapy Laboratory,Independent Clinical Laboratories
+Center for Domestic Preparedness Cholinesterase Testing Laboratory,Independent Clinical Laboratories
+The Center of Imaging Excellence,Independent Clinical Laboratories
+Central Alabama Alliance Resource & Advocacy Center,Independent Clinical Laboratories
+CerFlux Inc.,Independent Clinical Laboratories
+Chest Medicine of Cullman,Independent Clinical Laboratories
+The Children's Hospital of Alabama Laboratory,Independent Clinical Laboratories
+Children's South Laboratory,Independent Clinical Laboratories
+Choctaw General Independent Laboratory,Independent Clinical Laboratories
+Citizens Baptist Medical Center Laboratory,Independent Clinical Laboratories
+City of Bridgeport Drugs,Independent Clinical Laboratories
+Clay County Hospital Laboratory,Independent Clinical Laboratories
+Clearview Diagnostic Imaging,Independent Clinical Laboratories
+Coast Diagnostics,Independent Clinical Laboratories
+College City Drug Co. Inc. Laboratory,Independent Clinical Laboratories
+Community Hospital Clinical Laboratory,Independent Clinical Laboratories
+Coosa Valley Medical Center Clinical Laboratory,Independent Clinical Laboratories
+Coosa Valley MRI LLC,Independent Clinical Laboratories
+Core Diagnostics Laboratories LLC,Independent Clinical Laboratories
+Crenshaw Community Hospital Laboratory,Independent Clinical Laboratories
+Crestwood Diagnostics-Madison ICL,Independent Clinical Laboratories
+Crestwood Medical Center Emergency Room-Harvest ICL,Independent Clinical Laboratories
+Crestwood Medical Center Laboratory,Independent Clinical Laboratories
+Crisis Center Inc.,Independent Clinical Laboratories
+CSL Plasma,Independent Clinical Laboratories
+CSL Plasma Inc - Dothan,Independent Clinical Laboratories
+CSL Plasma Inc - Huntsville,Independent Clinical Laboratories
+CSL Plasma Inc.,Independent Clinical Laboratories
+CSL Plasma Inc. Mobile,Independent Clinical Laboratories
+CSL Plasma Inc. Rainbow City,Independent Clinical Laboratories
+CSL Plasma Inc.-Auburn,Independent Clinical Laboratories
+CSL Plasma Inc.-Birmingham,Independent Clinical Laboratories
+Cullman Regional Medical Center Laboratory,Independent Clinical Laboratories
+Cunningham Pathology LLC,Independent Clinical Laboratories
+CVS Pharmacy # 01777,Independent Clinical Laboratories
+CVS Pharmacy # 02899,Independent Clinical Laboratories
+CVS Pharmacy # 04667,Independent Clinical Laboratories
+CVS Pharmacy # 04832,Independent Clinical Laboratories
+CVS Pharmacy # 04851,Independent Clinical Laboratories
+CVS Pharmacy # 04856,Independent Clinical Laboratories
+CVS Pharmacy # 04870,Independent Clinical Laboratories
+CVS Pharmacy # 04871,Independent Clinical Laboratories
+CVS Pharmacy # 04899,Independent Clinical Laboratories
+CVS Pharmacy # 04913,Independent Clinical Laboratories
+CVS Pharmacy # 04946,Independent Clinical Laboratories
+CVS Pharmacy # 04948,Independent Clinical Laboratories
+CVS Pharmacy # 05316,Independent Clinical Laboratories
+CVS Pharmacy # 07063,Independent Clinical Laboratories
+CVS Pharmacy # 07179,Independent Clinical Laboratories
+CVS Pharmacy # 07217,Independent Clinical Laboratories
+CVS Pharmacy # 07671,Independent Clinical Laboratories
+CVS Pharmacy # 10076,Independent Clinical Laboratories
+CVS Pharmacy # 10181,Independent Clinical Laboratories
+CVS Pharmacy # 10516,Independent Clinical Laboratories
+CVS Pharmacy #02748,Independent Clinical Laboratories
+CVS Pharmacy #04822,Independent Clinical Laboratories
+CVS Pharmacy #04882,Independent Clinical Laboratories
+CVS Pharmacy #04889,Independent Clinical Laboratories
+CVS Pharmacy #04967,Independent Clinical Laboratories
+CVS Pharmacy #07155,Independent Clinical Laboratories
+CVS/Pharmacy #01774,Independent Clinical Laboratories
+CVS/Pharmacy #02505,Independent Clinical Laboratories
+CVS/Pharmacy #03004,Independent Clinical Laboratories
+CVS/Pharmacy #04815,Independent Clinical Laboratories
+CVS/Pharmacy #04973,Independent Clinical Laboratories
+Cytopath P.C.,Independent Clinical Laboratories
+D. W. McMillan Memorial Hospital Laboratory,Independent Clinical Laboratories
+Dale Medical Center Laboratory,Independent Clinical Laboratories
+DCH Regional Medical Center Laboratory,Independent Clinical Laboratories
+Decatur Diagnostic Laboratory Inc.,Independent Clinical Laboratories
+Decatur Morgan Hospital Laboratory - Decatur Campus,Independent Clinical Laboratories
+Dekalb Regional Medical Center Laboratory,Independent Clinical Laboratories
+Dermatopathology Associates PLLC,Independent Clinical Laboratories
+Devansh Lab Werks Inc.,Independent Clinical Laboratories
+Diagnostic Health Huntsville ICL,Independent Clinical Laboratories
+Diagnostic Mycoplasma Laboratory,Independent Clinical Laboratories
+Diagnostic Virology Laboratory University of Alabama/Health Services Foundation PC,Independent Clinical Laboratories
+Discovery Life Sciences LLC TBS IHC,Independent Clinical Laboratories
+Division of Infectious Diseases Laboratory (UAB),Independent Clinical Laboratories
+Dothan Diagnostic Imaging,Independent Clinical Laboratories
+Dr. William O. Sargeant DO P.C.,Independent Clinical Laboratories
+The Drug Store,Independent Clinical Laboratories
+EAMC - Lanier Rural Emergency Hospital Laboratory,Independent Clinical Laboratories
+EAMC East Alabama Health Internal Medicine-ICL,Independent Clinical Laboratories
+EAMC Employee Wellness Clinic,Independent Clinical Laboratories
+EAMC Pathology,Independent Clinical Laboratories
+East Alabama Medical Center Lab Ourtreach,Independent Clinical Laboratories
+East Alabama Medical Center Laboratory,Independent Clinical Laboratories
+East Alabama Medical Center Mobile Outreach Bus,Independent Clinical Laboratories
+East Alabama Medical Center Pre-Surgery Clinic,Independent Clinical Laboratories
+East Alabama Medical Freestanding Emergency Department - ICL,Independent Clinical Laboratories
+East Point Pharmacy LLC,Independent Clinical Laboratories
+East View Medical Research LLC,Independent Clinical Laboratories
+Eastern Shore Pathology Laboratory,Independent Clinical Laboratories
+Eclipse Pathology LLC,Independent Clinical Laboratories
+Elmore Community Hospital Laboratory,Independent Clinical Laboratories
+EM Labs Inc.,Independent Clinical Laboratories
+Encompass Health Lakeshore Rehabilitation Hospital Laboratory,Independent Clinical Laboratories
+Eurofins Diatherix Laboratories LLC,Independent Clinical Laboratories
+Evergreen Medical Center Laboratory,Independent Clinical Laboratories
+Fayette Medical Center Laboratory,Independent Clinical Laboratories
+First Source Testing LLC,Independent Clinical Laboratories
+Five Horizons Health Services,Independent Clinical Laboratories
+Florala Medical Associates LLC,Independent Clinical Laboratories
+Florence Pathology Services LLC NAMC Laboratory,Independent Clinical Laboratories
+Flowers Hospital Laboratory,Independent Clinical Laboratories
+Floyd Cherokee Medical Center Laboratory,Independent Clinical Laboratories
+Franklin Primary Health Center Inc.,Independent Clinical Laboratories
+Freedom Plasma,Independent Clinical Laboratories
+Fungal Reference Laboratory,Independent Clinical Laboratories
+Gadsden Regional Imaging,Independent Clinical Laboratories
+Gadsden Regional Medical Center Laboratory,Independent Clinical Laboratories
+Golden Point Scientific Labs,Independent Clinical Laboratories
+Grandview Medical Center Freestanding ED - ICL,Independent Clinical Laboratories
+Greene County Hospital Laboratory,Independent Clinical Laboratories
+Grove Hill Memorial Hospital Laboratory,Independent Clinical Laboratories
+Gut Pathology LLC,Independent Clinical Laboratories
+Hale County Hospital Laboratory,Independent Clinical Laboratories
+Hazel Green Huntsville Hospital Laboratory Collection Station,Independent Clinical Laboratories
+Health Med Inc.,Independent Clinical Laboratories
+Health Services Center,Independent Clinical Laboratories
+Helen Keller Hospital Laboratory,Independent Clinical Laboratories
+Highlands Medical Center Laboratory,Independent Clinical Laboratories
+Hill Hospital of Sumter County Laboratory,Independent Clinical Laboratories
+Huntsville Hospital Laboratory,Independent Clinical Laboratories
+Huntsville Hospital Laboratory Collection Station,Independent Clinical Laboratories
+Infirmary 65 Radiology,Independent Clinical Laboratories
+Infirmary Eastern Shore Radiology,Independent Clinical Laboratories
+Infirmary Imaging-Hillcrest,Independent Clinical Laboratories
+Infirmary Imaging-Saraland,Independent Clinical Laboratories
+iRepertoire Molecular Lab,Independent Clinical Laboratories
+J. Paul Jones Rural Emergency Hospital Laboratory,Independent Clinical Laboratories
+Jack Hughston Memorial Hospital Laboratory,Independent Clinical Laboratories
+Jack's Discount Pharmacy,Independent Clinical Laboratories
+Jackson Hospital & Clinic Laboratory,Independent Clinical Laboratories
+Jackson Medical Center Laboratory,Independent Clinical Laboratories
+JesMobile Labs To Go LLC,Independent Clinical Laboratories
+Kailos Genetics LLC,Independent Clinical Laboratories
+KedPlasma LLC - Mobile 2,Independent Clinical Laboratories
+Kedplasma LLC - Tuscaloosa,Independent Clinical Laboratories
+KedPlasma LLC,Independent Clinical Laboratories
+Kroger Pharmacy # 11-677,Independent Clinical Laboratories
+Kroger Pharmacy #260,Independent Clinical Laboratories
+Kroger Pharmacy #26-606,Independent Clinical Laboratories
+Kroger Pharmacy #310,Independent Clinical Laboratories
+Kroger Pharmacy #508,Independent Clinical Laboratories
+Kroger Pharmacy #517,Independent Clinical Laboratories
+Kroger Pharmacy #605,Independent Clinical Laboratories
+Kroger Pharmacy #631,Independent Clinical Laboratories
+Kroger Pharmacy #849,Independent Clinical Laboratories
+Kroger Pharmacy #854,Independent Clinical Laboratories
+Kroger Pharmacy #894,Independent Clinical Laboratories
+Lab Corp-Dothan,Independent Clinical Laboratories
+LabCorp,Independent Clinical Laboratories
+LabCorp,Independent Clinical Laboratories
+Labcorp Ascension 119,Independent Clinical Laboratories
+Labcorp at Walgreens Doug Baker,Independent Clinical Laboratories
+LabCorp at Walgreens Florence,Independent Clinical Laboratories
+LabCorp at Walgreens Jacksonville PSC,Independent Clinical Laboratories
+Labcorp at Walgreens Tuscaloosa,Independent Clinical Laboratories
+LabCorp at Walgreens-Huntsville,Independent Clinical Laboratories
+LabCorp Auburn,Independent Clinical Laboratories
+LabCorp Coosa Valley PSC,Independent Clinical Laboratories
+Labcorp Dothan-Main Street,Independent Clinical Laboratories
+LabCorp Employer Services,Independent Clinical Laboratories
+LabCorp- Fairhope PSC,Independent Clinical Laboratories
+Labcorp Foley PSC,Independent Clinical Laboratories
+Labcorp Lab Works,Independent Clinical Laboratories
+Labcorp Providence Diagnostics,Independent Clinical Laboratories
+LabCorp PSC- Vestavia Hills,Independent Clinical Laboratories
+Labcorp Selma PSC,Independent Clinical Laboratories
+Labcorp St. Vincent's Diagnostic Center,Independent Clinical Laboratories
+LabCorp- St. Vincent's East,Independent Clinical Laboratories
+LabCorp-East Montgomery,Independent Clinical Laboratories
+LabCorp-Gardendale,Independent Clinical Laboratories
+Labcorp-Goode Building,Independent Clinical Laboratories
+LabCorp-Gulf Shores PSC,Independent Clinical Laboratories
+Labcorp-Hartselle PSC,Independent Clinical Laboratories
+LabCorp-HWC,Independent Clinical Laboratories
+Labfirst at Grandview Medical Center,Independent Clinical Laboratories
+Laboratory Corporation of America,Independent Clinical Laboratories
+Laboratory Corporation of America,Independent Clinical Laboratories
+Laboratory Corporation of America,Independent Clinical Laboratories
+Laboratory Corporation of America,Independent Clinical Laboratories
+Laboratory Corporation of America,Independent Clinical Laboratories
+Laboratory Corporation of America Holdings,Independent Clinical Laboratories
+Lake Martin Community Hospital Laboratory,Independent Clinical Laboratories
+Lakeland Community Hospital Laboratory,Independent Clinical Laboratories
+Lawrence Medical Center Lab,Independent Clinical Laboratories
+LFB Plasma,Independent Clinical Laboratories
+Life Line Screening of America,Independent Clinical Laboratories
+LifeSouth Community Blood Centers,Independent Clinical Laboratories
+LifeSouth Community Blood Centers - Mobile Region,Independent Clinical Laboratories
+LifeSouth Community Blood Centers - Montgomery Region,Independent Clinical Laboratories
+LifeSouth Community Blood Centers Inc. North Alabama Region-Huntsville,Independent Clinical Laboratories
+Loxley Family Medical Center-Quest,Independent Clinical Laboratories
+Luxor Scientific LLC,Independent Clinical Laboratories
+Madison Core Laboratories,Independent Clinical Laboratories
+Madison Health Mart Pharmacy,Independent Clinical Laboratories
+Madison Hospital Laboratory,Independent Clinical Laboratories
+Marshall Medical Center North Laboratory,Independent Clinical Laboratories
+Marshall Medical Center South Laboratory,Independent Clinical Laboratories
+Maude L. Whatley Health Center,Independent Clinical Laboratories
+McWhorter School of Pharmacy,Independent Clinical Laboratories
+Medhasvi Vaidhya Diagnostics LLC,Independent Clinical Laboratories
+Medical Center Barbour Laboratory,Independent Clinical Laboratories
+Medical Center Enterprise Laboratory,Independent Clinical Laboratories
+Medical West Laboratory,Independent Clinical Laboratories
+Mercy Medical Health Center of Gulf Shores,Independent Clinical Laboratories
+Metabolic Disease Laboratory,Independent Clinical Laboratories
+Microphase Clinical Laboratory Inc.,Independent Clinical Laboratories
+Midtown Pharmacy,Independent Clinical Laboratories
+Mills Pharmacy at Brookwood,Independent Clinical Laboratories
+Mills Pharmacy at Corner,Independent Clinical Laboratories
+Mills Pharmacy at McCalla,Independent Clinical Laboratories
+Mills Pharmacy at Midfield,Independent Clinical Laboratories
+Mills Pharmacy at Parkway,Independent Clinical Laboratories
+Mills Pharmacy at Pinson,Independent Clinical Laboratories
+Mills Pharmacy at Pleasant Grove,Independent Clinical Laboratories
+Mizell Memorial Hospital Laboratory,Independent Clinical Laboratories
+Mobile Division Laboratory,Independent Clinical Laboratories
+Mobile Infirmary Medical Center Laboratory,Independent Clinical Laboratories
+Mobile Molecular Imaging,Independent Clinical Laboratories
+Mobile Open MRI,Independent Clinical Laboratories
+Monroe County Hospital Laboratory,Independent Clinical Laboratories
+Montevallo Family Medicine,Independent Clinical Laboratories
+Montgomery Cancer Center,Independent Clinical Laboratories
+Montgomery Cancer Center - Prattville,Independent Clinical Laboratories
+Mostellar Medical Center Inc.,Independent Clinical Laboratories
+Muscle & Nerve Histopathology Lab-UAB Dept of Neurology,Independent Clinical Laboratories
+National Kidney Foundation of Alabama (Mobile Unit),Independent Clinical Laboratories
+Neuens Diagnostics Inc,Independent Clinical Laboratories
+New Day Women's Center,Independent Clinical Laboratories
+North Alabama Medical Center Laboratory,Independent Clinical Laboratories
+North Baldwin Infirmary Laboratory,Independent Clinical Laboratories
+North Jefferson Women's Center ICL,Independent Clinical Laboratories
+North Mississippi Health Services-South Marion Laboratory,Independent Clinical Laboratories
+North Mississippi Medical Center-Hamilton Laboratory,Independent Clinical Laboratories
+Northport Medical Center Laboratory,Independent Clinical Laboratories
+Oak Street Health - Center Point,Independent Clinical Laboratories
+Oak Street Health - Mobile,Independent Clinical Laboratories
+Oak Street Health - North Huntsville,Independent Clinical Laboratories
+Oak Street Health- Rickwood Field,Independent Clinical Laboratories
+Oak Street Health-Montgomery,Independent Clinical Laboratories
+Oak Street Health-Tuscaloosa,Independent Clinical Laboratories
+OB/GYN Research and Diagnostic Laboratories,Independent Clinical Laboratories
+OccMed Solutions,Independent Clinical Laboratories
+Octapharma Plasma Inc.,Independent Clinical Laboratories
+Octapharma Plasma Inc.,Independent Clinical Laboratories
+Octapharma Plasma Inc. Midfield,Independent Clinical Laboratories
+Octapharma Plasma Inc.,Independent Clinical Laboratories
+ONEBLOOD Inc.,Independent Clinical Laboratories
+On-Site Collections,Independent Clinical Laboratories
+Outpatient Diagnostic Center of Athens,Independent Clinical Laboratories
+Outpatient Diagnostic Center of Decatur (ICL),Independent Clinical Laboratories
+Outpatient Diagnostic Center of Madison-ICL,Independent Clinical Laboratories
+Parkway Medical Center Laboratory,Independent Clinical Laboratories
+Parkway Medical Center Laboratory,Independent Clinical Laboratories
+Pathology Associates P.C.,Independent Clinical Laboratories
+Pathology Associates P.C.,Independent Clinical Laboratories
+Pathology Laboratory Associates P.A. Histocytology Laboratory,Independent Clinical Laboratories
+PCR-DX LLC,Independent Clinical Laboratories
+Phlebotomy Ink Allied Healthcare Services LLC,Independent Clinical Laboratories
+PMx Labs LLC,Independent Clinical Laboratories
+Prattville Baptist Hospital Laboratory,Independent Clinical Laboratories
+Prattville Imaging Center,Independent Clinical Laboratories
+Princeton PSC,Independent Clinical Laboratories
+Professional Phlebotomy Services LLC,Independent Clinical Laboratories
+Proteus Molecular and Clinical Lab LLC,Independent Clinical Laboratories
+Providence Hospital Laboratory,Independent Clinical Laboratories
+Quality of Life Health Complex,Independent Clinical Laboratories
+Quest Anniston PSC,Independent Clinical Laboratories
+Quest Diagnostic Chateau PSC,Independent Clinical Laboratories
+Quest Diagnostic Foley PSC,Independent Clinical Laboratories
+Quest Diagnostics - Gasden PSC,Independent Clinical Laboratories
+Quest Diagnostics Birmingham,Independent Clinical Laboratories
+Quest Diagnostics Clinical Laboratories Inc.,Independent Clinical Laboratories
+Quest Diagnostics Mobile PSC,Independent Clinical Laboratories
+Quest Diagnostics -Shelby,Independent Clinical Laboratories
+Quest Diagnostics Inc.,Independent Clinical Laboratories
+Quest Diagnostics-Fairhope Family Medicine,Independent Clinical Laboratories
+Quest Diagnostics-Merit Healthcare of Sylacauga POCT,Independent Clinical Laboratories
+Quest Diagnostics-Merit Healthcare of Talladega POCT,Independent Clinical Laboratories
+Quest Diagnostics-RMC Mediplex,Independent Clinical Laboratories
+Quest Diagnostics-Summit Health Inc.,Independent Clinical Laboratories
+The Radiology Clinic,Independent Clinical Laboratories
+Red Bay Hospital Laboratory,Independent Clinical Laboratories
+Regional Medical Center of Central Alabama (Laboratory),Independent Clinical Laboratories
+Riverview Regional Medical Center Laboratory,Independent Clinical Laboratories
+Russell Brown Medical Park Laboratory Collection Station,Independent Clinical Laboratories
+Russell Medical Center Laboratory,Independent Clinical Laboratories
+Russellville Hospital Laboratory,Independent Clinical Laboratories
+Saad Healthcare Services,Independent Clinical Laboratories
+Savage Diagnostics LLC,Independent Clinical Laboratories
+Selma Air Inc.,Independent Clinical Laboratories
+Selma Medical Associates,Independent Clinical Laboratories
+Shelby Baptist Medical Center Laboratory,Independent Clinical Laboratories
+Shoals Hospital Laboratory,Independent Clinical Laboratories
+Shoal's Women's Clinic,Independent Clinical Laboratories
+The Sickle Cell Disease Association of American-Mobile Chapter,Independent Clinical Laboratories
+Singing River Healthcare LLC,Independent Clinical Laboratories
+Skin Pathology Associates LLC,Independent Clinical Laboratories
+South Baldwin Pathology,Independent Clinical Laboratories
+South Huntsville Hospital Patient Service Center,Independent Clinical Laboratories
+South Madison Patient Service Center,Independent Clinical Laboratories
+Southeast Clinical Laboratories - Gadsden,Independent Clinical Laboratories
+Southeast Clinical Laboratories LLC,Independent Clinical Laboratories
+Southeast Clinical Laboratories-Homewood,Independent Clinical Laboratories
+Southeast Clinical Laboratories-Huntsville,Independent Clinical Laboratories
+Southeast Clinical Laboratories-Walker Medical,Independent Clinical Laboratories
+Southeast Health Medical Center Laboratory,Independent Clinical Laboratories
+Southern Blood Services Inc.,Independent Clinical Laboratories
+Southern Blood Services Inc.,Independent Clinical Laboratories
+Southview Medical Group P.C.,Independent Clinical Laboratories
+Southwest Alabama Health Services Inc.,Independent Clinical Laboratories
+Spencer Cancer Center-ICL,Independent Clinical Laboratories
+Springhill Memorial Hospital Lab.,Independent Clinical Laboratories
+State Wellness Center: SEIB Healthcare Center,Independent Clinical Laboratories
+Streamline Scientific,Independent Clinical Laboratories
+Structural Research Center,Independent Clinical Laboratories
+Sylacauga PSC,Independent Clinical Laboratories
+Symbol Health Solutions - Fairhope,Independent Clinical Laboratories
+Symbol Health Solutions - KTH,Independent Clinical Laboratories
+Symbol Health Solutions Central,Independent Clinical Laboratories
+Symbol Health Solutions CSU,Independent Clinical Laboratories
+Symbol Health Solutions Foley,Independent Clinical Laboratories
+Symbol Health Solutions LLC,Independent Clinical Laboratories
+Symbol Health Solutions SLT,Independent Clinical Laboratories
+Symbol Health Solutions Vulcan,Independent Clinical Laboratories
+Symbol Health Solutions-Auburn,Independent Clinical Laboratories
+Symbol Health Solutions-BC Bay Minette,Independent Clinical Laboratories
+Symbol Health Solutions-BC Robertsdale,Independent Clinical Laboratories
+Symbol Health Solutions-GS,Independent Clinical Laboratories
+Symbol Health Solutions-Mitchell,Independent Clinical Laboratories
+Symbol Health Solutions-TRM,Independent Clinical Laboratories
+Synergy Laboratories- Opelika,Independent Clinical Laboratories
+Synergy Laboratories Inc.,Independent Clinical Laboratories
+Tanner Medical Center - East Alabama Laboratory,Independent Clinical Laboratories
+The American National Red Cross Birmingham Alabama,Independent Clinical Laboratories
+The American National Red Cross Huntsville Alabama Madison County Location,Independent Clinical Laboratories
+The American National Red Cross Mobile Alabama Mobile Facility,Independent Clinical Laboratories
+The American National Red Cross Montgomery Alabama Montgomery Location,Independent Clinical Laboratories
+The Birmingham Pain Center Laboratory,Independent Clinical Laboratories
+Thomas Hospital Laboratory,Independent Clinical Laboratories
+Thomas Medical Center Laboratory,Independent Clinical Laboratories
+Thrive Alabama,Independent Clinical Laboratories
+Tide Tox LLC,Independent Clinical Laboratories
+Trinity Discount Drugs LLC,Independent Clinical Laboratories
+Troy Regional Medical Center Laboratory,Independent Clinical Laboratories
+Tuscaloosa Drug Company,Independent Clinical Laboratories
+Tuskegee Area Health Education Center,Independent Clinical Laboratories
+UAB Biochemical Genetics Laboratory,Independent Clinical Laboratories
+UAB Dermatopathology,Independent Clinical Laboratories
+UAB Highlands Laboratory,Independent Clinical Laboratories
+UAB HSF Robert B. Adams Laboratory,Independent Clinical Laboratories
+UAB St. Vincent's Birmingham Laboratory,Independent Clinical Laboratories
+UAB St. Vincent's Blount Laboratory,Independent Clinical Laboratories
+UAB St. Vincent's Chilton Laboratory,Independent Clinical Laboratories
+UAB St. Vincent's East Laboratory,Independent Clinical Laboratories
+UAB St. Vincent's St. Clair Laboratory,Independent Clinical Laboratories
+Unity Wellness Center,Independent Clinical Laboratories
+Univ of South AL Children's and Women's,Independent Clinical Laboratories
+University Medical Center Laboratory,Independent Clinical Laboratories
+University of Alabama Health Services Foundation Medical Genomics Laboratory,Independent Clinical Laboratories
+University of Alabama Hospital Laboratories,Independent Clinical Laboratories
+University of Alabama in Birmingham Histocompatibility and Immunogenetics Laboratory Comprehensive Transplant Institute,Independent Clinical Laboratories
+University of South Alabama Medical Center Laboratory,Independent Clinical Laboratories
+USA Anatomical Pathology Lab,Independent Clinical Laboratories
+USA Mitchell Cancer Institute Oncology,Independent Clinical Laboratories
+USA Mitchell Cancer Institute-Fairhope,Independent Clinical Laboratories
+Valley Pathology,Independent Clinical Laboratories
+Vaughan Community Health Services Inc.,Independent Clinical Laboratories
+Vaughan Regional Medical Center-Parkway Campus Laboratory,Independent Clinical Laboratories
+Vibrant Hydration & Wellness,Independent Clinical Laboratories
+Walgreens #01230,Independent Clinical Laboratories
+Walgreens #01318,Independent Clinical Laboratories
+Walgreens #01777,Independent Clinical Laboratories
+Walgreens #02203,Independent Clinical Laboratories
+Walgreens #02363,Independent Clinical Laboratories
+Walgreens #02557,Independent Clinical Laboratories
+Walgreens #02589,Independent Clinical Laboratories
+Walgreens #05072,Independent Clinical Laboratories
+Walgreens #05073,Independent Clinical Laboratories
+Walgreens #05176,Independent Clinical Laboratories
+Walgreens #05606,Independent Clinical Laboratories
+Walgreens #05861,Independent Clinical Laboratories
+Walgreens #06033,Independent Clinical Laboratories
+Walgreens #06035,Independent Clinical Laboratories
+Walgreens #06084,Independent Clinical Laboratories
+Walgreens #06430,Independent Clinical Laboratories
+Walgreens #06488,Independent Clinical Laboratories
+Walgreens #06507,Independent Clinical Laboratories
+Walgreens #06639,Independent Clinical Laboratories
+Walgreens #06800,Independent Clinical Laboratories
+Walgreens #06955,Independent Clinical Laboratories
+Walgreens #06956,Independent Clinical Laboratories
+Walgreens #06977,Independent Clinical Laboratories
+Walgreens #06979,Independent Clinical Laboratories
+Walgreens #07245,Independent Clinical Laboratories
+Walgreens #07306,Independent Clinical Laboratories
+Walgreens #07404,Independent Clinical Laboratories
+Walgreens #07405,Independent Clinical Laboratories
+Walgreens #07609,Independent Clinical Laboratories
+Walgreens #07716,Independent Clinical Laboratories
+Walgreens #07717,Independent Clinical Laboratories
+Walgreens #07746,Independent Clinical Laboratories
+Walgreens #07791,Independent Clinical Laboratories
+Walgreens #07951,Independent Clinical Laboratories
+Walgreens #07962,Independent Clinical Laboratories
+Walgreens #09256,Independent Clinical Laboratories
+Walgreens #09427,Independent Clinical Laboratories
+Walgreens #09683,Independent Clinical Laboratories
+Walgreens #09701,Independent Clinical Laboratories
+Walgreens #09951,Independent Clinical Laboratories
+Walgreens #09976,Independent Clinical Laboratories
+Walgreens #10109,Independent Clinical Laboratories
+Walgreens #10110,Independent Clinical Laboratories
+Walgreens #10169,Independent Clinical Laboratories
+Walgreens #10333,Independent Clinical Laboratories
+Walgreens #10480,Independent Clinical Laboratories
+Walgreens #10504,Independent Clinical Laboratories
+Walgreens #10523,Independent Clinical Laboratories
+Walgreens #10524,Independent Clinical Laboratories
+Walgreens #10525,Independent Clinical Laboratories
+Walgreens #10628,Independent Clinical Laboratories
+Walgreens #10761,Independent Clinical Laboratories
+Walgreens #10762,Independent Clinical Laboratories
+Walgreens #10850,Independent Clinical Laboratories
+Walgreens #10851,Independent Clinical Laboratories
+Walgreens #10947,Independent Clinical Laboratories
+Walgreens #10966,Independent Clinical Laboratories
+Walgreens #10981,Independent Clinical Laboratories
+Walgreens #11098,Independent Clinical Laboratories
+Walgreens #11099,Independent Clinical Laboratories
+Walgreens #11115,Independent Clinical Laboratories
+Walgreens #11180,Independent Clinical Laboratories
+Walgreens #11279,Independent Clinical Laboratories
+Walgreens #11389,Independent Clinical Laboratories
+Walgreens #11404,Independent Clinical Laboratories
+Walgreens #11468,Independent Clinical Laboratories
+Walgreens #11531,Independent Clinical Laboratories
+Walgreens #11651,Independent Clinical Laboratories
+Walgreens #11704,Independent Clinical Laboratories
+Walgreens #11819,Independent Clinical Laboratories
+Walgreens #12056,Independent Clinical Laboratories
+Walgreens #12098,Independent Clinical Laboratories
+Walgreens #12099,Independent Clinical Laboratories
+Walgreens #12333,Independent Clinical Laboratories
+Walgreens #12879,Independent Clinical Laboratories
+Walgreens #12911,Independent Clinical Laboratories
+Walgreens #13111,Independent Clinical Laboratories
+Walgreens #13158,Independent Clinical Laboratories
+Walgreens #13159,Independent Clinical Laboratories
+Walgreens #13793,Independent Clinical Laboratories
+Walgreens #13937,Independent Clinical Laboratories
+Walgreens #15144,Independent Clinical Laboratories
+Walgreens #15205,Independent Clinical Laboratories
+Walgreens #15480,Independent Clinical Laboratories
+Walgreens #15501,Independent Clinical Laboratories
+Walgreens #15545,Independent Clinical Laboratories
+Walgreens #15614,Independent Clinical Laboratories
+Walgreens #17115,Independent Clinical Laboratories
+Walgreens #17206,Independent Clinical Laboratories
+Walgreens #17256,Independent Clinical Laboratories
+Walgreens #17268,Independent Clinical Laboratories
+Walgreens #17363,Independent Clinical Laboratories
+Walgreens #17398,Independent Clinical Laboratories
+Walgreens #17739,Independent Clinical Laboratories
+Walgreens #18116,Independent Clinical Laboratories
+Walgreens #18148,Independent Clinical Laboratories
+Walgreens #19058,Independent Clinical Laboratories
+Walgreens #19190,Independent Clinical Laboratories
+Walgreens #19608,Independent Clinical Laboratories
+Walgreens #19668,Independent Clinical Laboratories
+Walgreens #19770,Independent Clinical Laboratories
+Walgreens #19797,Independent Clinical Laboratories
+Walgreens #19809,Independent Clinical Laboratories
+Walgreens #4589,Independent Clinical Laboratories
+Walgreens #5151,Independent Clinical Laboratories
+Walgreens #6034,Independent Clinical Laboratories
+Walgreens #6085,Independent Clinical Laboratories
+Walgreens #6431,Independent Clinical Laboratories
+Walgreens #9397,Independent Clinical Laboratories
+Walgreens #9456,Independent Clinical Laboratories
+Walker Baptist Medical Center Laboratory,Independent Clinical Laboratories
+Walmart #4407 in Montgomery,Independent Clinical Laboratories
+Washington County Hospital and Nursing Home Laboratory,Independent Clinical Laboratories
+Wellness Corporate Solutions LLC,Independent Clinical Laboratories
+Wiregrass Medical Center Laboratory,Independent Clinical Laboratories
+Alabama Institute for Sleep Health,Independent Physiological Laboratories
+Alabama Pregnancy Test Center,Independent Physiological Laboratories
+Alamed/Pulmonary Care Service,Independent Physiological Laboratories
+American Diagnostics Services LLC.,Independent Physiological Laboratories
+American Health Imaging of Greystone,Independent Physiological Laboratories
+American Health Imaging of Shelby,Independent Physiological Laboratories
+Birmingham Physicians Radiology PLLC IPL,Independent Physiological Laboratories
+Breast Health Center - IPL,Independent Physiological Laboratories
+Brookwood Diagnostic Imaging Center,Independent Physiological Laboratories
+Brookwood Diagnostic Imaging Center - Hoover,Independent Physiological Laboratories
+Camellia Women's Imaging,Independent Physiological Laboratories
+Carmichael Imaging Center,Independent Physiological Laboratories
+CDI - Florence,Independent Physiological Laboratories
+Center of Imaging Excellence,Independent Physiological Laboratories
+Choose Life of North Alabama-Ultrasound,Independent Physiological Laboratories
+Choose Life-IPL,Independent Physiological Laboratories
+Clearview Diagnostic Imaging HSV-IPL,Independent Physiological Laboratories
+Clinic for Rheumatic Disease,Independent Physiological Laboratories
+Crestwood Diagnostic-Madison IPL,Independent Physiological Laboratories
+Crestwood Medical Center Emergency Room- Harvest IPL,Independent Physiological Laboratories
+Diagnostic Health Huntsville (IPL),Independent Physiological Laboratories
+Dothan Diagnostic Imaging-IPL,Independent Physiological Laboratories
+EAMC East Alabama Health Internal Medicine,Independent Physiological Laboratories
+East Alabama Medical Center Pre-Surgery Clinic-IPL,Independent Physiological Laboratories
+First Choice Women's Medical - Elmore County,Independent Physiological Laboratories
+First Choice Women's Medical Center - South,Independent Physiological Laboratories
+First Choice Women's Medical Center Inc.,Independent Physiological Laboratories
+Grandview Imaging Trussville,Independent Physiological Laboratories
+Grandview Medical Center Freestanding ED - IPL,Independent Physiological Laboratories
+Huntsville Imaging Center-Nuclear Medicine,Independent Physiological Laboratories
+Image Clear Ultrasound,Independent Physiological Laboratories
+Image Clear Ultrasound 2,Independent Physiological Laboratories
+Image Clear Ultrasound 3,Independent Physiological Laboratories
+Image Clear Ultrasound 4,Independent Physiological Laboratories
+Infirmary Eastern Shore Physiological Laboratory,Independent Physiological Laboratories
+Integrated Magnetic Imaging,Independent Physiological Laboratories
+Lakeland Diagnostics IPL,Independent Physiological Laboratories
+Life Line Screening-Mobile Unit,Independent Physiological Laboratories
+The Lighthouse Women's Center,Independent Physiological Laboratories
+Medscan Clinic,Independent Physiological Laboratories
+North Jefferson Women's Center IPL,Independent Physiological Laboratories
+Norwood Clinic Imaging,Independent Physiological Laboratories
+OccMed Solutions LLC,Independent Physiological Laboratories
+Outpatient Diagnostic Center of Athens-IPL,Independent Physiological Laboratories
+Outpatient Diagnostic Center of Decatur,Independent Physiological Laboratories
+Outpatient Diagnostic Center of Madison-IPL,Independent Physiological Laboratories
+Pacifico IMG,Independent Physiological Laboratories
+Prattville Imaging Center,Independent Physiological Laboratories
+Pregnancy Test & Resource Center,Independent Physiological Laboratories
+Real Life Pregnancy Test Center,Independent Physiological Laboratories
+River Region Pregnancy Center Inc.,Independent Physiological Laboratories
+Sav -A- Life Family Hope Center,Independent Physiological Laboratories
+Sav-A-Life Bessemer Inc.,Independent Physiological Laboratories
+Sav-A-Life Lanett/Valley Inc.,Independent Physiological Laboratories
+Sav-A-Life of Tuscaloosa Inc.,Independent Physiological Laboratories
+Sav-A-Life Pregnancy Center,Independent Physiological Laboratories
+Sav-A-Life Inc.,Independent Physiological Laboratories
+Shoals Sav-A-Life Inc.,Independent Physiological Laboratories
+Southern Sleep Clinics LLC (Mobile Unit),Independent Physiological Laboratories
+Spencer Cancer Center-IPL,Independent Physiological Laboratories
+Thomas Medical Center Physiological Laboratory,Independent Physiological Laboratories
+UAB Medicine St. Vincent's One Nineteen,Independent Physiological Laboratories
+UAB Medicine St. Vincent's Trussville,Independent Physiological Laboratories
+UAB Medicine-Leeds,Independent Physiological Laboratories
+USA Health West Mobile Imaging Center,Independent Physiological Laboratories
+VuePoint Diagnostics LLC,Independent Physiological Laboratories
+Walker Medical Diagnostics LLC,Independent Physiological Laboratories
+Wiregrass Emergency Pregnancy Service,Independent Physiological Laboratories
+Wiregrass Hope Pregnancy Center,Independent Physiological Laboratories
+Women's Diagnostic Center,Independent Physiological Laboratories
+Adams Rehabilitation and Healthcare Center,Nursing Home
+Albertville Nursing Home,Nursing Home
+Aliceville Manor Nursing Home,Nursing Home
+Allen Health and Rehabilitation,Nursing Home
+Altera Health and Rehabilitation Center,Nursing Home
+Altoona Health & Rehab,Nursing Home
+Andalusia Manor,Nursing Home
+Anniston Health and Rehab Services LLC,Nursing Home
+Arbor Lake Health & Rehab LLC,Nursing Home
+Arbor Springs Health and Rehab Center Ltd.,Nursing Home
+Arbor Woods Health and Rehab,Nursing Home
+Arlington Rehabilitation & HealthCare Center,Nursing Home
+Ashland Place Health and Rehabilitation LLC,Nursing Home
+Aspire Physical Recovery Center at Cahaba River LLC,Nursing Home
+Aspire Physical Recovery Center at Hoover LLC,Nursing Home
+Aspire Physical Recovery Center of West Alabama LLC,Nursing Home
+Athens Health and Rehabilitation LLC,Nursing Home
+Atmore Nursing Center,Nursing Home
+Attalla Rehabilitation and Nursing Center,Nursing Home
+Barfield Health Care,Nursing Home
+Baron House of Hueytown,Nursing Home
+Bellway Health and Rehabilitation Center LLC,Nursing Home
+Bibb Medical Center Nursing Home,Nursing Home
+Bill Nichols State Veterans Home,Nursing Home
+Birmingham Rehabilitation and Wellness Center,Nursing Home
+Bridgeway Health and Rehabilitation Center,Nursing Home
+Brookdale University Park SNF (AL),Nursing Home
+Brookshire Rehabilitation and Healthcare Center,Nursing Home
+Brown Nursing Home,Nursing Home
+Burns Nursing Home Inc.,Nursing Home
+Camellia Health and Rehabilitation Center,Nursing Home
+Canterbury Rehabilitation and Healthcare Center,Nursing Home
+Capitol Hill Healthcare Center,Nursing Home
+Caregivers of Pleasant Grove Inc.,Nursing Home
+Cavalier Healthcare of Trussville,Nursing Home
+Chapman Healthcare Center Inc.,Nursing Home
+Charlton Place Rehabilitation & Health Care Center,Nursing Home
+Cherokee County Health & Rehabilitation Center,Nursing Home
+Cherry Hill Rehabilitation & Healthcare Center,Nursing Home
+Civic Center Health and Rehabilitation LLC,Nursing Home
+Clay County Nursing Home,Nursing Home
+Cleburne County Nursing Home,Nursing Home
+Cloverdale Rehabilitation and Wellness,Nursing Home
+Collinsville Healthcare & Rehab,Nursing Home
+Colonel Robert L. Howard State Veterans Home,Nursing Home
+Columbiana Health and Rehabilitation LLC,Nursing Home
+Convalescent Nursing and Rehab Center,Nursing Home
+Coosa Valley Healthcare Center,Nursing Home
+Coosa Valley Rehabilitation and Healthcare Center,Nursing Home
+Cordova Health and Rehabilitation LLC,Nursing Home
+Cottage of the Shoals,Nursing Home
+Crossville Health and Rehabilitation LLC,Nursing Home
+Crowne Health Care of Citronelle,Nursing Home
+Crowne Health Care of Eufaula,Nursing Home
+Crowne Health Care of Fort Payne,Nursing Home
+Crowne Health Care of Greenville,Nursing Home
+Crowne Health Care of Mobile,Nursing Home
+Crowne Health Care of Montgomery,Nursing Home
+Crowne Health Care of North Baldwin,Nursing Home
+Crowne Health Care of Springhill,Nursing Home
+Crowne Health Care of Thomasville,Nursing Home
+CSM Bennie G. Adkins State Veterans Home,Nursing Home
+Cullman Rehabilitation and Healthcare Center,Nursing Home
+Cumberland Health and Rehab,Nursing Home
+Cypress Cove Center,Nursing Home
+Dadeville Healthcare Center,Nursing Home
+Davis/Orman Intermediate Care Facility,Nursing Home
+Decatur Rehabilitation and Healthcare Center,Nursing Home
+Diversicare of Arab,Nursing Home
+Diversicare of Bessemer,Nursing Home
+Diversicare of Big Springs,Nursing Home
+Diversicare of Boaz,Nursing Home
+Diversicare of Foley,Nursing Home
+Diversicare of Greensboro,Nursing Home
+Diversicare of Lanett,Nursing Home
+Diversicare of Marion,Nursing Home
+Diversicare of Montgomery,Nursing Home
+Diversicare of Oneonta,Nursing Home
+Diversicare of Oxford,Nursing Home
+Diversicare of Pell City,Nursing Home
+Diversicare of Riverchase,Nursing Home
+Diversicare of Winfield,Nursing Home
+EAMC - Lanier Nursing Home,Nursing Home
+East Glen,Nursing Home
+Eastern Shore Rehabilitation and Health Center,Nursing Home
+El Reposo Nursing Facility,Nursing Home
+Elba Rehabilitation and Wellness Center,Nursing Home
+Elite Nursing and Rehabilitation Care Center,Nursing Home
+Englewood Health Care Center,Nursing Home
+Enterprise Health & Rehabilitation Center,Nursing Home
+Evergreen Nursing Home,Nursing Home
+Everstead Health and Rehabilitation Center,Nursing Home
+Extendicare Health and Rehab,Nursing Home
+Fair Haven,Nursing Home
+Fairhope Health and Rehab,Nursing Home
+Fairview at Redstone Village,Nursing Home
+Falkville Rehabilitation & Healtlhcare Center,Nursing Home
+Father Purcell Memorial Exceptional Children's Center,Nursing Home
+Fayette Medical Center Long Term Care Unit,Nursing Home
+Florala Health and Rehabilitation LLC,Nursing Home
+Florence Rehabilitation and Wellness Center,Nursing Home
+Floyd E. "Tut" Fann State Veterans Home,Nursing Home
+Folsom Rehabilitation and Healthcare Center,Nursing Home
+Forest Manor Health and Rehab,Nursing Home
+Gadsden Health and Rehab Center,Nursing Home
+Galleria Woods Skilled Nursing Facility,Nursing Home
+Georgiana Health and Rehabilitation LLC,Nursing Home
+Glen Haven Health and Rehabilitation,Nursing Home
+Glenwood Center,Nursing Home
+Goodwater Healthcare Center,Nursing Home
+Greenbriar at the Altamont Skilled Nursing Facility,Nursing Home
+Greene County Nursing Home,Nursing Home
+Greenway Health and Rehabilitation Center,Nursing Home
+Gulf Coast Health and Rehabilitation LLC,Nursing Home
+Haleyville Rehabilitation and Healthcare Center,Nursing Home
+Hanceville Nursing & Rehab Center Inc.,Nursing Home
+Hartford Health Care,Nursing Home
+Hatley Health Care Inc.,Nursing Home
+Health Care Inc.,Nursing Home
+The Healthcare Center at Buck Creek,Nursing Home
+Hendrix Health and Rehabilitation,Nursing Home
+Henry County Health and Rehabilitation Facility,Nursing Home
+Heritage Health Care & Rehab. Inc.,Nursing Home
+Highlands Health and Rehab,Nursing Home
+Highlands Rehabilitation and Wellness Center,Nursing Home
+Hillview Terrace,Nursing Home
+Hunter Creek Health and Rehabilitation LLC,Nursing Home
+Huntsville Health and Rehabilitation LLC,Nursing Home
+Jackson Health Care Facility,Nursing Home
+Jacksonville Health and Rehabilitation LLC,Nursing Home
+John Knox Manor Inc. II,Nursing Home
+Keller Landing,Nursing Home
+Kensington Health and Rehabilitation,Nursing Home
+Kirkwood by the River,Nursing Home
+Knollwood Healthcare "Special Focus Facility",Nursing Home
+Lafayette Extended Care,Nursing Home
+Lafayette Nursing Home,Nursing Home
+Lauderdale Christian Nursing Home,Nursing Home
+Legacy Health and Rehabilitation of Pleasant Grove LLC,Nursing Home
+Lighthouse Rehabilitation & Healthcare Center,Nursing Home
+Limestone Nursing and Rehabilitation Center,Nursing Home
+Lineville Health and Rehabilitation LLC,Nursing Home
+Little Sisters of the Poor Sacred Heart Residence,Nursing Home
+Luverne Health and Rehabilitation LLC,Nursing Home
+Lynwood Rehabilitation and Healthcare Center,Nursing Home
+Madison Manor Nursing Home,Nursing Home
+Magnolia Haven Health and Rehabilitation Center,Nursing Home
+Magnolia Ridge,Nursing Home
+Marengo Nursing Home,Nursing Home
+Marion Regional Nursing Home,Nursing Home
+Marshall Manor Nursing Home,Nursing Home
+McGuffey Health and Rehabilitation Center,Nursing Home
+Meadowview Nursing Center,Nursing Home
+Merry Wood Lodge,Nursing Home
+Mitchell-Hollingsworth Nursing & Rehabilitation Center LLC,Nursing Home
+Mobile Rehabilitation and Wellness Center,Nursing Home
+Monroe Manor Health & Rehabilitation Center,Nursing Home
+Montgomery Children's Specialty Center,Nursing Home
+Moundville Health and Rehabilitation LLC,Nursing Home
+NHC Healthcare Anniston,Nursing Home
+NHC Healthcare Moulton,Nursing Home
+Northgate Health and Rehabilitation Center,Nursing Home
+Northside Rehabilitation and Healthcare Center,Nursing Home
+Northway Health and Rehabilitation LLC,Nursing Home
+Oak Knoll Health and Rehabilitation LLC,Nursing Home
+Oaks on Parkwood Skilled Nursing Facility,Nursing Home
+Oakview Manor Health Care Center,Nursing Home
+Opp Health and Rehabilitation LLC,Nursing Home
+Orchard Rehabilitation & Healthcare Center,Nursing Home
+Ozark Health and Rehabilitation LLC,Nursing Home
+Palm Gardens Health and Rehabilitation LLC,Nursing Home
+Park Manor Health and Rehabilitation LLC,Nursing Home
+Park Place,Nursing Home
+Parkwood Health Care Facility,Nursing Home
+Piedmont Health Care Center,Nursing Home
+Pine Haven Rehabilitation and Wellness Center,Nursing Home
+Pine Hill Rehabilitation and Wellness Center,Nursing Home
+Plantation Manor Nursing Home,Nursing Home
+Prattville Health and Rehabilitation LLC,Nursing Home
+Providence Park Rehabilitation & Health Care Center LLC,Nursing Home
+RedBay Nursing and Rehab Center,Nursing Home
+Redmont Health and Rehabilitation Center,Nursing Home
+Regency Health Care and Rehabilitation Center,Nursing Home
+Ridgeview Health Services Inc.,Nursing Home
+Ridgewood Health Services Inc.,Nursing Home
+River City Center,Nursing Home
+Rivertown Health and Rehabilitation Center,Nursing Home
+Roanoke Rehabilitation & Healthcare Center,Nursing Home
+Robertsdale Rehabilitation & Healthcare Center,Nursing Home
+Rocket City Rehabilitation and Healthcare Center,Nursing Home
+Self Skilled Nursing & Rehab,Nursing Home
+Shadescrest Health Care Center,Nursing Home
+Shelby Ridge Nursing Home,Nursing Home
+South Hampton Nursing & Rehabilitation Center,Nursing Home
+South Haven Health and Rehabilitation LLC,Nursing Home
+South Health and Rehabilitation LLC,Nursing Home
+Southern Springs Healthcare,Nursing Home
+Southland Nursing Home,Nursing Home
+Springhill Senior Residence,Nursing Home
+St. Martins in the Pines,Nursing Home
+Stonehaven Health and Rehabilitation Center,Nursing Home
+Strickland/Stringfellow ICF/IID,Nursing Home
+Summerford Health and Rehab LLC,Nursing Home
+Sumter Health and Rehabilitation LLC,Nursing Home
+Sunset Manor,Nursing Home
+Sylacauga Health and Rehab Services,Nursing Home
+Talladega Healthcare Center Inc.,Nursing Home
+Tallassee Health and Rehabilitation LLC,Nursing Home
+Terrace Manor Nursing & Rehabilitation Center,Nursing Home
+The Health Center at Research Park,Nursing Home
+The Health Center of Eastview,Nursing Home
+The Pines of Camden LLC,Nursing Home
+Timberland Health and Rehabilitation Center,Nursing Home
+TLC Nursing Center,Nursing Home
+Traylor Retirement Community,Nursing Home
+Troy Health & Rehabilitation Center,Nursing Home
+Twin Oaks Rehabilitation & HealthCare Center,Nursing Home
+Valley View Health and Rehabilitation LLC,Nursing Home
+Village at Cook Springs Skilled Nursing Facility,Nursing Home
+Walker Rehabilitation Center Inc.,Nursing Home
+Washington County Nursing Home,Nursing Home
+Wesley Place on Honeysuckle,Nursing Home
+West Gate Village,Nursing Home
+Westside Terrace Health and Rehabilitation Center,Nursing Home
+Wetumpka Health and Rehabilitation LLC,Nursing Home
+William F. Green State Veterans Home,Nursing Home
+WillowBrooke Court Skilled Care Center at Magnolia Trace,Nursing Home
+WillowBrooke Court Skilled Care Center at Westminster Village,Nursing Home
+Windsor House,Nursing Home
+Wiregrass Rehabilitation Center & Nursing Home,Nursing Home
+Woodhaven Manor Nursing Home,Nursing Home
+Woodland Village Rehabilitation and Healthcare Center,Nursing Home
+Alabama Organ Center,Organ Procurement Center
+Mobile Images,Portable XRay Supplier
+Mobile Imaging LLC,Portable XRay Supplier
+MobileX USA,Portable XRay Supplier
+Portable Medical Diagnostic LLC,Portable XRay Supplier
+Superior Mobile Imaging Inc.,Portable XRay Supplier
+Tech Care X-Ray LLC,Portable XRay Supplier
+Tri-County Mobile X-Ray Service,Portable XRay Supplier
+VuePoint Diagnostics LLC,Portable XRay Supplier
+Alabama Clinical Schools,Psychiatric Residential Treatment Facility
+BayPointe Hospital & Children's Residential Svcs & Adolescent Ind. Program,Psychiatric Residential Treatment Facility
+Brighter Path - Courtland,Psychiatric Residential Treatment Facility
+Brighter Path - Courtland,Psychiatric Residential Treatment Facility
+Brighter Path - Montgomery,Psychiatric Residential Treatment Facility
+Brighter Path Owens Cross Roads,Psychiatric Residential Treatment Facility
+Hill Crest Behavioral Health Services,Psychiatric Residential Treatment Facility
+Hill Crest Behavioral Health Services,Psychiatric Residential Treatment Facility
+Hill Crest Behavioral Health Services,Psychiatric Residential Treatment Facility
+Laurel Oaks Behavioral Health Center,Psychiatric Residential Treatment Facility
+Mountain View Hospital Summit Crest Lodge,Psychiatric Residential Treatment Facility
+SafetyNet Crossings,Psychiatric Residential Treatment Facility
+SafetyNet Ranch,Psychiatric Residential Treatment Facility
+SafetyNet Villa,Psychiatric Residential Treatment Facility
+Advance Rehabilitation & Consulting Limited Partnership,Rehabilitation Center
+American Autism & Rehabilitation Center Inc.,Rehabilitation Center
+Andrews Institute Rehabilitation LLC,Rehabilitation Center
+Arlington Outpatient Rehab,Rehabilitation Center
+Champion Sports Medicine,Rehabilitation Center
+Champion Sports Medicine,Rehabilitation Center
+Champion Sports Medicine,Rehabilitation Center
+Champion Sports Medicine,Rehabilitation Center
+Champion Sports Medicine & Rehab Center - St. Vincent's,Rehabilitation Center
+Champion Sports Medicine & Rehabilitation Center - Jasper,Rehabilitation Center
+Champion Sports Medicine & Rehabilitation Center - Livingston,Rehabilitation Center
+CHAMPION SPORTS MEDICINE IN AFFILIATION with GRANDVIEW HEALTH,Rehabilitation Center
+Cherry Hill Outpatient Rehabilitation Center,Rehabilitation Center
+The Children's Hospital of Alabama Outpatient Rehabilitation Center,Rehabilitation Center
+Cooper Green Rehabilitation Services,Rehabilitation Center
+Cornerstone Fitness and Wellness LLC,Rehabilitation Center
+Decatur Morgan Hospital - Danville Road Campus,Rehabilitation Center
+Easter Seals Central Alabama Rehabilitation and Career Center,Rehabilitation Center
+Faulkner University Center for Therapy and Research,Rehabilitation Center
+Hand In Hand Therapy & Tutoring LLC,Rehabilitation Center
+Henry County Health & Rehabilitation Facility "Outpatient Therapy",Rehabilitation Center
+Huntsville Hospital Therapy Services,Rehabilitation Center
+Impact Rehabilitation and Sports Medicine Inc.,Rehabilitation Center
+Innerfit Inc.,Rehabilitation Center
+Magnolia Neuro Rehab LLC,Rehabilitation Center
+Magnolia Trace Rehabilitation Suite,Rehabilitation Center
+Northwest Alabama Easter Seal Children's Clinic Rehabilitation Center,Rehabilitation Center
+Rebound Rehab,Rehabilitation Center
+Rehab Associates - 50074,Rehabilitation Center
+Rehab Associates of Jackson Hospital LLC,Rehabilitation Center
+Rehab Associates-Prattville,Rehabilitation Center
+RehabWorks LLC,Rehabilitation Center
+Restore Huntsville,Rehabilitation Center
+Restore Outpatient of Chilton County,Rehabilitation Center
+Restore Outpatient Therapy of Mobile,Rehabilitation Center
+Restore Therapy Services Outpatient,Rehabilitation Center
+Restore Therapy Services Ltd.,Rehabilitation Center
+Restore Therapy Services Outpatient,Rehabilitation Center
+Riverview Physical Medicine,Rehabilitation Center
+Robertsdale Outpatient Rehabilitation Center,Rehabilitation Center
+Select Physical Therapy,Rehabilitation Center
+Stepping Stone Pediatric Therapy Inc.,Rehabilitation Center
+The Children's Hospital of Alabama Rehabilitation Center at Lakeshore Foundation dba Children's at Lakeshore,Rehabilitation Center
+The Summit Health & Rehab Services,Rehabilitation Center
+The Summit Health & Rehab Services,Rehabilitation Center
+The Summit Health & Rehab Services,Rehabilitation Center
+The Summit Health & Rehab Services,Rehabilitation Center
+Therapy Achievements Rehab Center,Rehabilitation Center
+Tuscaloosa Rehabilitation and Hand Center Inc.,Rehabilitation Center
+USA Healthcare - Decatur Health and Rehab,Rehabilitation Center
+Village at Cook Springs Rehabilitation Center,Rehabilitation Center
+Bullock County Rural Emergency Hospital,Rural Emergency Hospital
+Clay County Rural Emergency Hospital,Rural Emergency Hospital
+EAMC-Lanier Rural Emergency Hospital,Rural Emergency Hospital
+Grove Hill Rural Emergency Hospital,Rural Emergency Hospital
+J. Paul Jones Rural Emergency Hospital,Rural Emergency Hospital
+Access Medical Clinic Alabama,Rural Health Clinic
+ACH Complete Care,Rural Health Clinic
+ACH Family Physicians,Rural Health Clinic
+ACH Primary Care,Rural Health Clinic
+All About Pediatrics,Rural Health Clinic
+Andalusia Family Healthcare,Rural Health Clinic
+Atmore Urgent Care,Rural Health Clinic
+Atrium Health Floyd Cherokee Medical Center Rural Health Clinic Piedmont,Rural Health Clinic
+B & A Childrens Clinic PC,Rural Health Clinic
+Baileyton Family Medicine,Rural Health Clinic
+BBH Primary and Specialty Care Network,Rural Health Clinic
+BBH Primary Care and Specialty Care Network,Rural Health Clinic
+BHC - Talladega Pediatrics,Rural Health Clinic
+Bibb Medical Associates,Rural Health Clinic
+Bowling Family Medical Clinic,Rural Health Clinic
+Camellia Family Medicine,Rural Health Clinic
+Central Pediatrics Inc.,Rural Health Clinic
+Chatom Primary Care P.C.,Rural Health Clinic
+Cherokee Family Healthcaare LLC,Rural Health Clinic
+Chilton Family Medicine,Rural Health Clinic
+Chilton Family Medicine,Rural Health Clinic
+Clanton Pediatric Associates PA,Rural Health Clinic
+Coastal Pediatrics,Rural Health Clinic
+Community Medical Arts Center,Rural Health Clinic
+Complete Family Care,Rural Health Clinic
+Covington Healthcare LLC,Rural Health Clinic
+Crenshaw Family Care Center,Rural Health Clinic
+D. W. McMillan Medical Center,Rural Health Clinic
+Davis Family Medicine,Rural Health Clinic
+Dekalb Clinic,Rural Health Clinic
+Drs. Dabbs & Hyland PC,Rural Health Clinic
+Elba Healthcare,Rural Health Clinic
+Encore Medical Spa & Family Medicine,Rural Health Clinic
+ePediatrics and Family Care Clinic,Rural Health Clinic
+Evergreen Primary Care,Rural Health Clinic
+Faith Medical Clinic,Rural Health Clinic
+Falkville Medical Clinic LLC,Rural Health Clinic
+Family Care Clinic,Rural Health Clinic
+Family Medical Clinic of Jackson,Rural Health Clinic
+Fast Pace Health,Rural Health Clinic
+Fast Pace Health,Rural Health Clinic
+Fast Pace Health,Rural Health Clinic
+Fast Pace Medical Clinic,Rural Health Clinic
+Fast Pace Medical Clinic PLLC,Rural Health Clinic
+Fast Pace Medical Clinic PLLC,Rural Health Clinic
+Fast Pace Medical Clinic PLLC,Rural Health Clinic
+Fast Pace Medical Clinic PLLC Fast Pace Health,Rural Health Clinic
+Flomaton Medical Center,Rural Health Clinic
+Floyd Cherokee Medical Center Rural Health Clinic,Rural Health Clinic
+Floyd Cherokee Medical Center Rural Health Clinic,Rural Health Clinic
+FMC Medical Clinic Fayette,Rural Health Clinic
+FMC Medical Clinic Millport,Rural Health Clinic
+Fort Payne Pediatrics - Waterworks,Rural Health Clinic
+Ft. Mitchell Clinic,Rural Health Clinic
+Georgiana Rural Health and Urgent Care Clinic,Rural Health Clinic
+Goar Pediactrics PC,Rural Health Clinic
+Grant Family Practice Clinic,Rural Health Clinic
+Greene County Hospital Physicians Clinic,Rural Health Clinic
+Greenville Pediatrics,Rural Health Clinic
+Grove Hill Health Care,Rural Health Clinic
+Grove Hill Primary Care,Rural Health Clinic
+Guntersville Family Practice Clinic,Rural Health Clinic
+Hale County Hospital Clinic,Rural Health Clinic
+Health Partners of New Site,Rural Health Clinic
+Highlands Family Medicine LLC,Rural Health Clinic
+Highlands Primary Care,Rural Health Clinic
+Hill Hospital Physicians Clinic,Rural Health Clinic
+Hometown Pediatrics LLC,Rural Health Clinic
+Horizon Healthcare LLC,Rural Health Clinic
+Horizon Medical Clinic LLC,Rural Health Clinic
+Huntsville Hospital Urgent Care,Rural Health Clinic
+Huntsville Hospital Urgent Care,Rural Health Clinic
+Isbell Medical Group PC,Rural Health Clinic
+Ivy Creek Family Care of Holtville,Rural Health Clinic
+Ivy Creek Family Care of Tallassee,Rural Health Clinic
+Ivy Creek Family Care of Wetumpka,Rural Health Clinic
+J. Paul Jones Hospital Rural Health Clinic,Rural Health Clinic
+J. Paul Jones Hospital Rural Health Clinic,Rural Health Clinic
+Jackson Medical Center LLC,Rural Health Clinic
+Kids 1st Pediatrics,Rural Health Clinic
+Kids Clinic Pediatric and Adolescent Me,Rural Health Clinicdicine
+Kids First Pediatrics-Troy,Rural Health Clinic
+Kids R Us Pediatrics LLC,Rural Health Clinic
+Lake Martin Family Medicine,Rural Health Clinic
+Lakeland Family Practice,Rural Health Clinic
+Lakeside North Family Medicine,Rural Health Clinic
+Lakeside Primary Care,Rural Health Clinic
+Lawrence Rural Health Clinic - Courtland,Rural Health Clinic
+Lawrence Rural Health Clinic Moulton/Lawrence Urgent Care,Rural Health Clinic
+Main Street Clinic LLC,Rural Health Clinic
+Mainstreet Family Care - Alexander City,Rural Health Clinic
+Mainstreet Family Care - Andalusia,Rural Health Clinic
+Mainstreet Family Care - Arab,Rural Health Clinic
+Mainstreet Family Care - Brewton,Rural Health Clinic
+Mainstreet Family Care - Centre,Rural Health Clinic
+Mainstreet Family Care - Eufaula,Rural Health Clinic
+Mainstreet Family Care - Oneonta,Rural Health Clinic
+Mainstreet Family Care - Selma,Rural Health Clinic
+Mainstreet Family Care - Talladega,Rural Health Clinic
+Mainstreet Family Care - Valley,Rural Health Clinic
+Mainstreet Family Care- Sylacauga,Rural Health Clinic
+Mainstreet Family Urgent Care,Rural Health Clinic
+Marion Clinic,Rural Health Clinic
+Marion Regional Health Winfield Inc,Rural Health Clinic
+Marion Regional Health-Winfield Inc.,Rural Health Clinic
+MCB Family Clinic,Rural Health Clinic
+MCH Rural Health Clinic,Rural Health Clinic
+MedCenter Fayette,Rural Health Clinic
+Medical East of Decatur,Rural Health Clinic
+Medical Park Family Care,Rural Health Clinic
+Midway Medical Clinic LLC,Rural Health Clinic
+Mizell Memorial Medical Clinic 2,Rural Health Clinic
+Mizell Memorial Medical Clinic I,Rural Health Clinic
+Morrow Clinics Inc.,Rural Health Clinic
+Moulton Primary Care Clinic,Rural Health Clinic
+Moundville Medical Associates,Rural Health Clinic
+Nix Family Medicine,Rural Health Clinic
+North Mississippi Medical Center - Hamilton's Primary Care Center,Rural Health Clinic
+Ochsner Health Center - Butler,Rural Health Clinic
+Ochsner Health Center - Gilbertown,Rural Health Clinic
+Ochsner Health Center-Livingston,Rural Health Clinic
+Opelika Pediatrics & Family Clinic PC,Rural Health Clinic
+Pathway Pediatrics Inc.,Rural Health Clinic
+Pediatric Associates of Alexander City,Rural Health Clinic
+Pediatrics Associates of Alexander City,Rural Health Clinic
+Perfect Kids and Family Care,Rural Health Clinic
+Phil Campbell Medical Clinic,Rural Health Clinic
+Pickens County Primary Care PC,Rural Health Clinic
+Pickens County Primary Care PC,Rural Health Clinic
+Pickens County Primary Care PC,Rural Health Clinic
+Pickens County Primary Care PC,Rural Health Clinic
+Pickens County Primary Care PC,Rural Health Clinic
+Pisgah Medical Clinic,Rural Health Clinic
+Preferred Family Healthcare LLC,Rural Health Clinic
+Premier Family Care,Rural Health Clinic
+Premier Family Care Arab LLC,Rural Health Clinic
+Premier Family Care LLC,Rural Health Clinic
+Premier Medical Clinic LLC,Rural Health Clinic
+Primary Care Center of Monroeville,Rural Health Clinic
+Quality Medical Care,Rural Health Clinic
+Regional Medical Center Clinic,Rural Health Clinic
+Regional Medical Center Clinics,Rural Health Clinic
+Regional Medical Center Clinics,Rural Health Clinic
+Roanoke Rural Health Clinic,Rural Health Clinic
+Rural Primary Care South Inc.,Rural Health Clinic
+Russellville Hospital Family Care First Clinic,Rural Health Clinic
+Russellville Hospital Medical Clinic,Rural Health Clinic
+Samson Rural Health Clinic,Rural Health Clinic
+Sanar Medical Clinic,Rural Health Clinic
+Smart Care LLC,Rural Health Clinic
+Smart Start Pediatrics,Rural Health Clinic
+Somerville Family Medicine,Rural Health Clinic
+South Alabama Family Care LLC,Rural Health Clinic
+South Alabama Medical Clinic LLC,Rural Health Clinic
+Southeast Pediatrics PC,Rural Health Clinic
+Southern Family Health LLC,Rural Health Clinic
+Southern Immediate Care LLC,Rural Health Clinic
+Southview Medical Clinic LLC,Rural Health Clinic
+Springville Pediatrics LLC,Rural Health Clinic
+St. Vincent's Primary Care Cleveland,Rural Health Clinic
+St. Vincent's Primary Care Oneonta,Rural Health Clinic
+Stevenson Family Care,Rural Health Clinic
+Sylacauga Pediatric Clinic LLC,Rural Health Clinic
+Tanner Medical Clinic,Rural Health Clinic
+Tanner Primary Care of Roanoke,Rural Health Clinic
+Tanner Primary Care of Wedowee,Rural Health Clinic
+The Whit Family Clinic - Linden,Rural Health Clinic
+The Whit Family Clinic Fitz-Gerald,Rural Health Clinic
+Tuskegee Medical and Surgical Center,Rural Health Clinic
+United Doctors Family Medical Center - Altoona,Rural Health Clinic
+United Doctors Family Medical Center - Snead,Rural Health Clinic
+United Doctors Family Medical Clinic - Sand Rock,Rural Health Clinic
+Urgent Care 59 PC,Rural Health Clinic
+Urgent Care Northwest PC,Rural Health Clinic
+Valley Medical Clinic LLC,Rural Health Clinic
+Washington County Healthcare Authority Inc,Rural Health Clinic
+Weiss Family Care LLC,Rural Health Clinic
+Wetumpka Family Rural Health Clinic,Rural Health Clinic
+Wilmer Medical Clinic LLC,Rural Health Clinic
+Woodland Family Healthcare,Rural Health Clinic
+Alabama Institute for Sleep Health-Cullman,Sleep Disorder Center
+Alabama Sleep Therapy,Sleep Disorder Center
+Alabama Sleep Therapy North,Sleep Disorder Center
+Crestwood Diagnostics-Madison,Sleep Disorder Center
+East Alabama Medical Center Sleep Health Center,Sleep Disorder Center
+ECM East Sleep Disorders Center,Sleep Disorder Center
+Enterprise Sleep and Diagnostics,Sleep Disorder Center
+Grandview Sleep Disorders Center,Sleep Disorder Center
+Luna Sleep Centers LLC,Sleep Disorder Center
+Madison Sleep Center,Sleep Disorder Center
+Princeton Baptist Medical Center,Sleep Disorder Center
+Princeton Sleep Center,Sleep Disorder Center
+The Rest of Your Life Sleep Evaluation Center,Sleep Disorder Center
+Sleep Centers of North AL,Sleep Disorder Center
+Sleep Centers of North Alabama LLC,Sleep Disorder Center
+Sleep Disorders Center of Alabama Inc.,Sleep Disorder Center
+Southern Sleep Clinics LLC,Sleep Disorder Center
+Southern Sleep Clinics LLC,Sleep Disorder Center
+Southern Sleep Clinics LLC,Sleep Disorder Center
+Southern Sleep Clinics LLC,Sleep Disorder Center
+Southern Sleep Diagnostics,Sleep Disorder Center
+UAB Medicine Sleep Center at One Nineteen,Sleep Disorder Center
+University Sleep Disorders Center-Auburn,Sleep Disorder Center
+University Sleep Disorders Center-Dothan,Sleep Disorder Center

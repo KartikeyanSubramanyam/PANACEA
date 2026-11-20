@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US healthcare licensing landscape</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; margin: 0; color: #1e3a43; background: #fff; }
+  header { padding: 18px 24px 6px; }
+  h1 { margin: 0; font-size: 22px; }
+  .sub { margin: 4px 0 0; color: #6b6b6b; font-size: 14px; }
+  .wrap { display: flex; gap: 20px; padding: 12px 24px 24px; flex-wrap: wrap; align-items: flex-start; }
+  #map { flex: 1 1 620px; min-width: 320px; }
+  #panel { flex: 0 0 360px; border-radius: 12px; background: #eef4f3; padding: 18px; font-size: 14px; line-height: 1.45; min-height: 280px; }
+  #panel h2 { margin: 0 0 4px; font-size: 20px; }
+  #panel .tag { font-size: 12px; color: #6b6b6b; margin-bottom: 10px; }
+  #panel h3 { font-size: 14px; margin: 14px 0 4px; }
+  #panel ul { margin: 0; padding-left: 18px; }
+  #panel table { border-collapse: collapse; width: 100%; }
+  #panel td { padding: 3px 0; border-bottom: 1px solid #d5e3e1; }
+  #panel td:last-child { text-align: right; font-weight: 600; }
+  #panel .cav li { color: #6b6b6b; font-size: 13px; }
+  .state { stroke: #fff; stroke-width: 0.7; cursor: pointer; transition: fill 0.15s; }
+  .has { fill: #3a7a7e; }
+  .has:hover { fill: #1e3a43; }
+  .has.sel { fill: #d4704f; }
+  .nodata { fill: #e4e4e0; cursor: default; }
+  #tip { position: fixed; pointer-events: none; background: #1e3a43; color: #fff; padding: 8px 10px; border-radius: 6px; font-size: 13px; display: none; max-width: 260px; line-height: 1.4; z-index: 10; }
+  #tip b { font-weight: 600; }
+  .legend { font-size: 13px; color: #6b6b6b; margin: 6px 0 0 4px; }
+  .legend i { display: inline-block; width: 12px; height: 12px; margin-right: 5px; vertical-align: -1px; border-radius: 2px; }
+  .foot { font-size: 12px; color: #6b6b6b; padding: 0 24px 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>US healthcare licensing landscape</h1>
+  <p class="sub">Hover a state for headline figures. Click it for the full profile. Ten states have analysis so far; the rest are greyed out.</p>
+</header>
+<div class="wrap">
+  <div id="map"></div>
+  <div id="panel">
+    <h2>Select a state</h2>
+    <p>Click a teal state to see its facility counts, hospital types, findings and caveats.</p>
+  </div>
+</div>
+<div class="legend" style="padding:0 24px;">
+  <i style="background:#3a7a7e"></i>Analysis available &nbsp;&nbsp;
+  <i style="background:#e4e4e0"></i>No analysis yet
+</div>
+<div class="foot">Sources and definitions are listed in each state's profile. Facility counts use different definitions by state, so compare with care.</div>
+<div id="tip"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script>
+// One record per state, keyed by Census FIPS code.
+// facilities and hospitals are counts; the share is computed from them.
+const DATA = {
+  "06": {
+    name: "California", source: "Our analysis (state files)",
+    facilities: 10844, hospitals: 547,
+    types: ["General acute care: 459", "Acute psychiatric: 42", "Psychiatric health facility: 38", "Chemical dependency recovery: 8"],
+    findings: [
+      "25% of active licences (3,329 of 13,342) show an expiry date before 15 November 2026.",
+      "18% of rated hospital buildings (657 of 3,550) are seismic rating SPC 1 or 2."
+    ],
+    caveats: ["Listing dated 1 October 2026; other files are dated September 2026 or earlier.", "The listing covers 57 of California's 58 counties.", "Psychiatric health facilities are counted as hospitals."]
+  },
+  "48": {
+    name: "Texas", source: "Our analysis (state files)",
+    facilities: 3274, hospitals: 727, facilityNote: "Excludes 410 substance treatment headquarters records.",
+    types: ["General: 408", "Special (LTAC, rehab, other): 243", "Psychiatric: 64", "Limited-services rural: 7", "Crisis stabilization units: 5"],
+    findings: [
+      "150 of 254 counties have no obstetric capacity.",
+      "72 of 254 counties have no hospital."
+    ],
+    caveats: ["Records are licence entries, not operating sites.", "Special hospitals are not broken down further in the file."]
+  },
+  "45": {
+    name: "South Carolina", source: "Our analysis (state export)",
+    facilities: 2975, hospitals: 112, facilityNote: "Healthcare licences only; excludes individual permits and non-clinical records.",
+    types: ["General infirmary: 110", "Crisis stabilization units: 2"],
+    findings: [
+      "Home-based licences lapse most often, at 5.6% past expiry (95 of 1,691).",
+      "In-home care is 47% of healthcare licences (1,406 of 2,975)."
+    ],
+    caveats: ["The file lists no psychiatric or long-term acute hospitals, so the hospital count is low.", "The export has no snapshot date; expiry uses 14 November 2026."]
+  },
+  "24": {
+    name: "Maryland", source: "Our analysis (state workbooks)",
+    facilities: 2933, hospitals: 61, facilityNote: "Facility groups A to D; excludes labs, agencies and health plans.",
+    types: ["General acute care: 43", "Psychiatric or behavioural: 10", "Rehabilitation or orthopaedic: 5", "Pediatric or specialty: 2", "Geriatric: 1"],
+    findings: [
+      "87% of reference labs (1,393 of 1,594) and 72% of tissue banks (412 of 574) have out-of-state addresses.",
+      "Assisted living is 57% of facility records (1,677 of 2,933)."
+    ],
+    caveats: ["Hospital types are inferred from facility names; the files have no type field.", "The files have no licence expiry dates."]
+  },
+  "33": {
+    name: "New Hampshire", source: "Our analysis (DHHS PDF)",
+    facilities: 747, hospitals: 38, facilityNote: "Facility groups A to D; excludes individuals, labs and collection stations.",
+    types: ["General: 13", "Critical access: 13", "Special rehabilitation: 5", "Free-standing emergency room: 4", "Special health care services: 2", "Psychiatric: 1"],
+    findings: [
+      "Hillsborough County holds 29% of nursing home beds (2,136 of 7,339 across 77 homes).",
+      "Home care and home health care providers are the largest groups, at 216 of 747 combined."
+    ],
+    caveats: ["The raw extraction gave 979 lines against 978 cleaned records; one row is not reconciled."]
+  },
+  "04": {
+    name: "Arizona", source: "Colleague's analysis",
+    facilities: 7116, hospitals: 160, hospitalsApprox: true,
+    facilityNote: "Includes pharmacies (1,313), DD group homes (1,414) and DUI/DV centres (50).",
+    types: ["Hospital type breakdown not provided"],
+    findings: [
+      "Outpatient clinics are the largest group, at 4,177 (59%).",
+      "Includes federal sites (IHS and military treatment facilities) in one schema."
+    ],
+    caveats: ["Hospital count is approximate.", "Totals include non-facility categories, so they overstate facility counts."]
+  },
+  "08": {
+    name: "Colorado", source: "Colleague's analysis",
+    facilities: 5021, hospitals: 137,
+    types: ["Critical access, long term, short term, psychiatric, children's, rehabilitation, licensed-only general and psychiatric, transplant, and one obsolete category"],
+    findings: ["About 4,884 non-hospital facilities, including federally qualified health centres."],
+    caveats: ["Federal facilities are not listed in the state data."]
+  },
+  "29": {
+    name: "Missouri", source: "Colleague's analysis",
+    facilities: 1269, hospitals: 167,
+    facilityNote: "Hospital count includes 6 psychiatric residential treatment facilities.",
+    types: ["Hospital (HOSP) and psychiatric residential treatment (PRTF)"],
+    findings: ["About 1,102 other facilities, including skilled nursing, residential care, assisted living and intermediate care."],
+    caveats: ["Federal facilities are not listed in the state data."]
+  },
+  "01": {
+    name: "Alabama", source: "Colleague's analysis",
+    facilities: 2407, hospitals: 116,
+    types: ["Hospital type breakdown not provided"],
+    findings: ["About 2,291 other facilities, including ambulatory surgery centres, dialysis, federally qualified health centres, home health, hospices and nursing homes."],
+    caveats: ["Federal facilities are not listed in the state data."]
+  },
+  "51": {
+    name: "Virginia", source: "Colleague's analysis (2024 data)",
+    facilities: 176, hospitals: 82, hospitalsApprox: true,
+    types: ["Integrated health care facilities (about 75) and OSH-licensed hospitals (about 7)"],
+    findings: ["Hospital count is approximate and was derived from facility names."],
+    caveats: ["Data is from 2024.", "Federal facilities are not included."]
+  }
+};
+
+const NAMES = {"01":"Alabama","02":"Alaska","04":"Arizona","05":"Arkansas","06":"California","08":"Colorado","09":"Connecticut","10":"Delaware","11":"District of Columbia","12":"Florida","13":"Georgia","15":"Hawaii","16":"Idaho","17":"Illinois","18":"Indiana","19":"Iowa","20":"Kansas","21":"Kentucky","22":"Louisiana","23":"Maine","24":"Maryland","25":"Massachusetts","26":"Michigan","27":"Minnesota","28":"Mississippi","29":"Missouri","30":"Montana","31":"Nebraska","32":"Nevada","33":"New Hampshire","34":"New Jersey","35":"New Mexico","36":"New York","37":"North Carolina","38":"North Dakota","39":"Ohio","40":"Oklahoma","41":"Oregon","42":"Pennsylvania","44":"Rhode Island","45":"South Carolina","46":"South Dakota","47":"Tennessee","48":"Texas","49":"Utah","50":"Vermont","51":"Virginia","53":"Washington","54":"West Virginia","55":"Wisconsin","56":"Wyoming"};
+
+const share = d => (d.hospitals / d.facilities * 100).toFixed(1) + "%";
+const fmt = n => n.toLocaleString("en-US");
+
+const tip = document.getElementById("tip");
+const panel = document.getElementById("panel");
+
+function showPanel(id) {
+  const d = DATA[id];
+  if (!d) {
+    panel.innerHTML = `<h2>${NAMES[id]}</h2><div class="tag">No analysis yet</div><p>This state is not in the analysis so far.</p>`;
+    return;
+  }
+  const hospLabel = d.hospitalsApprox ? "~" + fmt(d.hospitals) : fmt(d.hospitals);
+  panel.innerHTML = `
+    <h2>${d.name}</h2>
+    <div class="tag">Source: ${d.source}</div>
+    <table>
+      <tr><td>Licensed facilities</td><td>${fmt(d.facilities)}</td></tr>
+      <tr><td>Hospitals</td><td>${hospLabel}</td></tr>
+      <tr><td>Hospitals as % of facilities</td><td>${share(d)}</td></tr>
+    </table>
+    ${d.facilityNote ? `<p class="tag" style="margin-top:8px">${d.facilityNote}</p>` : ""}
+    <h3>Hospital types</h3>
+    <ul>${d.types.map(t => `<li>${t}</li>`).join("")}</ul>
+    <h3>Findings</h3>
+    <ul>${d.findings.map(t => `<li>${t}</li>`).join("")}</ul>
+    <h3>Caveats</h3>
+    <ul class="cav">${d.caveats.map(t => `<li>${t}</li>`).join("")}</ul>`;
+}
+
+function tipHtml(id) {
+  const d = DATA[id];
+  if (!d) return `<b>${NAMES[id] || "Unknown"}</b><br>No analysis yet`;
+  const hospLabel = d.hospitalsApprox ? "~" + fmt(d.hospitals) : fmt(d.hospitals);
+  return `<b>${d.name}</b><br>${fmt(d.facilities)} facilities<br>${hospLabel} hospitals (${share(d)})<br><span style="opacity:.75">Click for full profile</span>`;
+}
+
+Promise.all([
+  d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json")
+]).then(([us]) => {
+  const states = topojson.feature(us, us.objects.states).features;
+  const svg = d3.select("#map").append("svg")
+    .attr("viewBox", "0 0 960 600")
+    .attr("width", "100%")
+    .attr("role", "img")
+    .attr("aria-label", "Map of the United States");
+  const path = d3.geoPath();
+  let selected = null;
+
+  svg.selectAll("path")
+    .data(states)
+    .join("path")
+    .attr("d", path)
+    .attr("class", d => "state " + (DATA[d.id] ? "has" : "nodata"))
+    .on("mousemove", (event, d) => {
+      tip.style.display = "block";
+      tip.innerHTML = tipHtml(d.id);
+      const x = Math.min(event.clientX + 14, window.innerWidth - 280);
+      tip.style.left = x + "px";
+      tip.style.top = (event.clientY + 14) + "px";
+    })
+    .on("mouseleave", () => { tip.style.display = "none"; })
+    .on("click", (event, d) => {
+      if (!DATA[d.id]) { showPanel(d.id); return; }
+      if (selected) selected.classed("sel", false);
+      selected = d3.select(event.currentTarget).classed("sel", true);
+      showPanel(d.id);
+    });
+}).catch(err => {
+  document.getElementById("map").innerHTML = "<p>The map outline could not be loaded. Check your internet connection and reload.</p>";
+  console.error(err);
+});
+</script>
+</body>
+</html>
